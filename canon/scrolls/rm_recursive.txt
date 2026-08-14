@@ -1,0 +1,35 @@
+rm -r -- remove a directory and everything in it
+
+Plain rm will not delete a directory. It refuses, and says so.
+
+There is a command for deleting a directory:
+
+    rmdir harbour
+
+but it only works if the directory is empty. If there is
+anything at all inside, rmdir refuses too.
+
+That refusal is doing you a favour. It means you cannot delete a
+hundred things by naming one.
+
+When you actually mean the directory and everything inside it,
+and every directory inside that, all the way down:
+
+    rm -r harbour
+
+The -r is for recursive. It goes in, deletes the contents,
+deletes the contents of the contents, and then deletes the
+directory itself. It does not list what it removed. It does not
+ask. When the prompt comes back, all of it is gone.
+
+Before you run it, run ls -R on the same name and read what
+comes back. That is the list rm -r will not show you.
+
+    ls -R harbour
+    rm -r harbour
+
+There is a version that asks about every single file:
+
+    rm -ri harbour
+
+It is tedious. Tedious is sometimes what you want.

@@ -1,0 +1,17 @@
+rm -- remove
+
+Deletes a file.
+
+    rm halios.txt
+
+Read that again. It deletes the file. There is no bin it goes
+to, no undo, no asking whether you meant it. The file is gone
+and the only version left is the one in canon/, and getting it
+back from there means starting the whole voyage again.
+
+If you want rm to ask first, use -i:
+
+    rm -i halios.txt
+
+Use -i. It costs you one keystroke and it has saved better
+sailors than you.

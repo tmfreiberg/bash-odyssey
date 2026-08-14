@@ -1,0 +1,62 @@
+Everyone on that ship is looking at Charybdis.
+
+Every man. The steersman, because he has to be. The rowers,
+because it is on their side, because it is making the noise,
+because you told them about it yourself an hour ago. You, on the
+foredeck, in armour, with two spears, staring at the whirlpool
+you were warned about.
+
+It goes down while you are watching. The sea empties out of the
+strait, the sand at the bottom shows black, the whole funnel
+roars.
+
+Nobody is looking at the cliff.
+
+She takes six out of the middle of the ship while your back is
+turned.
+
+You hear them over your head. That is how you find out: their
+feet going up past your ear, then their voices from above,
+calling your name, the last time any of them will use it.
+
+You look up. Six men against the rock face, hands out, still
+holding onto nothing, rising towards a cave mouth. They reach
+it. They go in.
+
+She eats them in the doorway where you can see it.
+
+Homer says this: of everything he suffered searching out the
+ways of the sea, that was the most pitiable thing his eyes ever
+looked on.
+
+
+She did not choose. You did not choose. She reached in, took
+what her necks reached, they happened to be the six men nearest
+the rail on the wrong side of a boat.
+
+So this one is not yours to select.
+
+Two men on that ship were out of her reach by accident of where
+they were standing. You, on the foredeck in armour. Eurylochus,
+at the steering oar in the stern, holding the line you gave him.
+Everybody else was amidships at the oars, which is where the
+necks came down.
+
+    find ship/crew -type f | grep -v -E "odysseus|eurylochus" | sort | head -6
+
+Alphabetical order. Nobody's judgement. That is who she took.
+
+If that list comes back shorter than six, she took what there
+was, which means you are further through your crew than the poem
+expects.
+
+Remove exactly those:
+
+    less scrolls/rm.txt
+
+Then read the names you just deleted back to yourself, out loud,
+once. On the foredeck you could not. You were standing there in
+a corselet that did nothing at all while men who trusted you
+went up a cliff shouting for you.
+
+    less scylla/after.txt

@@ -1,0 +1,69 @@
+chmod -- change what may be done to a file
+
+Every file carries a record of who is allowed to do what to it.
+Look at it:
+
+    ls -l
+
+The first column is the permissions. Something like:
+
+    -r--r--r--   a file everyone may read, nobody may change
+    -rw-r--r--   the owner may change it, everyone else may read
+    -rwxr-xr-x   as above, plus everyone may run it
+
+Ten characters. The first says whether it is a directory. The
+next nine are three groups of three: what the owner may do, what
+the owner's group may do, what everybody else may do. Within
+each group, r is read, w is write, x is execute or, on a
+directory, enter.
+
+chmod sets them. The plain way to say it:
+
+    chmod -w cattle_01.txt      take away permission to write
+    chmod +w cattle_01.txt      give it back
+    chmod -r cattle_01.txt      take away permission to read
+
+The numeric way says all nine at once, one digit per group,
+adding 4 for read, 2 for write, 1 for execute:
+
+    chmod 444 cattle_01.txt     everyone reads, nobody writes
+    chmod 644 cattle_01.txt     owner writes, everyone reads
+    chmod 000 cattle_01.txt     nobody does anything
+
+A permission is not a lock on a door. It is a notice on a door.
+The owner of a file may always put the permission back, which
+means it does not stop you: it stops you doing a thing by
+accident, records that the thing was not meant to be done.
+
+
+A NOTE FOR ANYONE PLAYING ON WINDOWS
+
+In Git Bash, half of this is real. Which half is worth knowing.
+
+Taking away write permission works:
+
+    chmod -w test.txt
+    rm test.txt
+
+Windows keeps a read-only attribute on every file, so chmod -w
+sets a thing that genuinely exists. rm will stop to ask you
+whether you meant it. That is the same behaviour you would get
+on Linux.
+
+Taking away read permission does not work:
+
+    chmod -r test.txt
+    cat test.txt
+
+On Linux that second command is refused. In Git Bash the file
+opens as though nothing happened, because restricting reads
+needs a permission system Windows keeps somewhere else, one that
+Git Bash does not reach into.
+
+So: ls -l may report a state the filesystem underneath is not
+enforcing. Try both of the above on your own machine rather than
+taking this on trust. Two commands, one small file, thirty
+seconds -- it is the fastest way to learn something true about
+the machine you are sitting at.
+
+The story ahead uses only the half that works everywhere.

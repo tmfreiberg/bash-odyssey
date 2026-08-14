@@ -1,0 +1,37 @@
+Look at the cattle the way a filesystem looks at them:
+
+    ls -l thrinacia/herd
+
+Every one of those files says the same thing in its first
+column. Readable. Not writable. Not by you, not by your crew,
+not by anybody who has rowed in here off the sea.
+
+    less scrolls/chmod.txt
+
+That is what "not yours" means in this place. You may look at
+them. You may walk among them. You may count them as often as
+you like. You may not alter them by one hair.
+
+Set it yourself, on the whole herd at once, so that nobody
+aboard can claim afterwards that the rule was unclear:
+
+    chmod -w thrinacia/herd/*.txt
+
+Read the notice back:
+
+    ls -l thrinacia/herd | head
+
+A permission is not a wall. Read the scroll if you have not: the
+owner of a file can always take the notice down. It does not
+stop a determined man. It records that he had to be determined.
+
+There is a paragraph at the end of that scroll for anyone
+playing on Windows. The short of it: taking away write
+permission behaves the same everywhere, which is the half this
+island uses.
+
+Nothing here turns on whether the notice held anyway.
+
+It turns on what is standing in that field when you wake up.
+
+    less thrinacia/wind.txt

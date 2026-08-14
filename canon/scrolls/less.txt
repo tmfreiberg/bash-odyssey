@@ -1,0 +1,11 @@
+less -- read a file
+
+    less shore.txt
+
+Arrow keys or the space bar to move down the page. Press q to
+stop reading and come back to the prompt.
+
+If you are looking for a particular word, press / and type it,
+then press Enter. Press n to jump to the next one.
+
+less does not change the file. It is safe to read anything.

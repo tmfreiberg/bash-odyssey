@@ -1,0 +1,61 @@
+Your wife comes down to the hall in the evening to question the
+beggar.
+
+She does it properly: where are you from, have you seen him,
+what was he wearing. You lie to her for an hour. You describe
+the clasp on the cloak you were wearing when you left -- a hound
+holding a fawn down, worked in gold -- because you know she made
+it, because you want to see what she does.
+
+She weeps. You watch her weep with your own face arranged into
+somebody else's, and Homer says your eyes stayed as steady as
+horn or iron in your head, which is either the most impressive
+thing in this poem or the coldest.
+
+Then she offers the old man a bath. He refuses. He says: no
+young woman is washing my feet. If there is an old servant here
+who has been through something, she can.
+
+There is one. Her name is Eurycleia. Your father bought her when
+she was a girl for twenty oxen. She nursed you. She put you on
+her knees.
+
+She fetches the basin. She looks at the beggar in the firelight
+while the water is heating up. She says: I have never seen
+anybody so like him. The feet, the hands, the voice.
+
+Then she washes you.
+
+Her hands go up your right leg above the knee.
+
+    less ithaca/orchard/boar_hunt.txt
+
+That is where it came from. She was in the house when you came
+back down from Parnassus at fifteen; she has known that scar
+longer than your wife has.
+
+Find it the way you would find anything in a file you have never
+opened:
+
+    grep -n scar ithaca/orchard/boar_hunt.txt
+    grep -n "right thigh" ithaca/orchard/boar_hunt.txt
+
+She drops your foot. The bronze basin goes over, all the water
+across the floor, the noise of it filling the hall.
+
+Joy, then terror, both at once. Her eyes fill. She says your
+name.
+
+You get your right hand round her throat before she can say it
+again. You pull her in with the left. You tell her: nurse, do
+you want to destroy me. You fed me at your own breast. Not one
+word, to anybody, including her.
+
+She says: you know what I am made of. I am stone. I am iron.
+
+Then she offers, quietly, to tell you which of the household
+women have thrown in with the suitors against your wife.
+
+You tell her not to. You say: I will find that out myself.
+
+    less ithaca/hall/bow.txt

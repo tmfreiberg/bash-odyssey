@@ -1,0 +1,66 @@
+She is glad to see you. They always are.
+
+Silver chair, gold cup. Barley, honey, wine, something at the
+bottom of it. You drink all of it. You hand the cup back.
+Nothing happens at all.
+
+She touches you with the rod and says: go and lie down with the
+rest of them.
+
+You are still standing there.
+
+Then the sword is out. You go at her the way Hermes said, and
+she is on the floor with her arms round your knees before you
+have taken two steps. She is saying: who are you, what are you,
+no man has ever drunk that and stayed on his feet. Then --
+
+Are you Odysseus?
+
+She was told. Years ago, by Hermes, on that same path: that a
+man would come off the sea one day who could not be turned, that
+he would be sailing home from Troy, that his name would be
+Odysseus. She has been half expecting you since before the war
+ended.
+
+Then she invites you to her bed, exactly as you were told she
+would.
+
+She is a goddess. You are standing in her house. If you put that
+sword down and go upstairs, she can turn you into anything she
+likes on the way. The only thing in the world that stops a god
+doing a thing is a god having sworn not to.
+
+Make her swear it. Out loud, by the blessed ones, the great oath
+-- that she will not try one more thing on you, that she will
+not take your strength or your manhood or your name while you
+are unarmed in her house.
+
+Then write it down. A thing you can produce later is worth more
+than a thing you remember:
+
+    less scrolls/echo.txt
+
+Put her oath in circe/oath.txt, in her words or in your own.
+
+She swears it. She does not hesitate. She does not qualify it.
+Afterwards she is different with you -- easier, almost relieved,
+like someone who has been holding a door shut for a long time.
+
+Then she brings the men back.
+
+Another drug, rubbed on each of them. The bristles go. They
+stand up as men, younger than they were. Taller. Better-looking
+than any of them has ever been. They know you. They take hold of
+you, every one of them crying, and the whole house is full of
+the noise of it. She stands at the side and watches. She says
+nothing.
+
+Take them home. Out of the pen, back on the roster where they
+belong:
+
+    mv circe/house/sty/*.txt ship/crew
+
+Then go down to the beach and fetch the rest. Eurylochus comes
+without wanting to.
+
+    less circe/year.txt

@@ -1,0 +1,43 @@
+They throw rocks.
+
+Not thrown the way a man throws. Each one is more than a man
+could lift, and there are thousands of them along the top on
+both sides, and the harbour below is a hundred yards of flat
+water with eleven ships in it and no way out except a gap two
+ships wide.
+
+The noise is the thing your men will not talk about afterwards.
+Timber going, and men in the water, and then the men in the
+water going quiet in a particular order as the rocks work down
+the line.
+
+Then they come down with fishing spears and take them out of the
+water one at a time, like fish, because that is what it is. It
+is not a battle. Nobody up there is in any danger. They are
+getting their supper and they will be at it until dark.
+
+Every ship in that harbour is gone. Not damaged -- gone, and
+their crews with them, and there is not one thing you can do
+about any of it from where you are standing.
+
+    less scrolls/rm_recursive.txt
+
+Look at it first. Do the recursive listing one more time and
+read the names of what is in there, because after the next
+command there is no list of it anywhere:
+
+    ls -R laestrygonia/harbour
+
+Then take the harbour off the world.
+
+    rm -r laestrygonia/harbour
+
+Count what it cost you before you row. You did the arithmetic an
+hour ago, on the deck, with a pipe and a listing, and the number
+came to four hundred and sixty men.
+
+You will not be able to do it again. The listing is gone and so
+are they, and the only place that number exists now is in your
+own log if you put it there.
+
+    less laestrygonia/open_water.txt

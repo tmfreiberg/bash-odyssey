@@ -1,0 +1,47 @@
+She gives you a bronze axe, double-bladed, fitted to an olive
+handle. An adze. Then she walks you to the far end of the island
+where the timber is.
+
+Alder, poplar, silver fir, standing dead a long time, seasoned,
+dry, light in the water.
+
+You cut twenty trees.
+
+Twenty. Trimmed, squared with the adze, bored through with the
+augers she brings you, pegged to each other, fitted edge to edge
+like the deck of a wide merchant ship. Rails. A mast. A
+steering oar. Woven willow along the sides against the sea.
+Cloth for a sail, which she cuts herself.
+
+Four days. Not one man has ever built a boat faster.
+
+This is the first thing you have made with your hands since you
+came home from Troy. Everything else in ten years has been
+taking, losing, escaping, burying.
+
+There is no raft in this world yet. Make one:
+
+    mkdir ogygia/raft
+
+Then the planks. Twenty of them, numbered, all at once -- you do
+not fell twenty trees one at a time by name any more than you
+would type twenty filenames:
+
+    less scrolls/braces.txt
+
+    touch ogygia/raft/plank_{01..20}.txt
+
+Then the rest of her:
+
+    touch ogygia/raft/{mast,sail,rudder,rail}.txt
+
+Count what you have built:
+
+    ls ogygia/raft | wc -l
+
+Twenty-four pieces. It is not a ship. Twelve ships left Troy
+behind you; this is twenty logs pegged together by one man with
+a borrowed axe, which is what is going to carry you the rest of
+the way home.
+
+    less ogygia/departure.txt

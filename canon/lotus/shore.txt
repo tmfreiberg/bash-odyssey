@@ -1,0 +1,27 @@
+Nine days of wind off Cape Malea, blowing the wrong way, and on
+the tenth you make land somewhere nobody can name.
+
+There is fresh water here. That is the only reason to stop and
+it is reason enough. The men fill the jars and eat on the sand.
+
+Inland there is a path, and people living at the end of it who
+have not come down to see who you are. That is unusual. Nobody
+comes down to look at twelve ships unless there is something
+wrong with them or something wrong with you.
+
+Write the crossing down before you forget it -- nine days is a
+long time to lose -- and then send three men up to find out what
+kind of people live here.
+
+    mv ship/crew/polites.txt lotus/inland/eaters
+    mv ship/crew/elpenor.txt lotus/inland/eaters
+    mv ship/crew/perimedes.txt lotus/inland/eaters
+
+That was this morning. They have not come back.
+
+    less lotus/inland/path.txt
+
+You will not leave this island until you have been up there and
+come down again. That happens at:
+
+    lotus/spring.txt

@@ -1,0 +1,85 @@
+bash-odyssey is released under two licences, one for the machinery and
+one for the writing.
+
+
+================================================================
+1. THE CODE  --  MIT Licence
+================================================================
+
+Applies to: begin.sh, canon/ithaca/hall/bow.sh, and any other shell
+script or configuration file in this repository.
+
+Copyright (c) 2026 Tristan Freiberg
+
+Permission is hereby granted, free of charge, to any person obtaining a
+copy of this software and associated documentation files (the
+"Software"), to deal in the Software without restriction, including
+without limitation the rights to use, copy, modify, merge, publish,
+distribute, sublicense, and/or sell copies of the Software, and to
+permit persons to whom the Software is furnished to do so, subject to
+the following conditions:
+
+The above copyright notice and this permission notice shall be included
+in all copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS
+OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF
+MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT.
+IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY
+CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT,
+TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE
+SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
+
+
+================================================================
+2. THE TEXT  --  Creative Commons Attribution 4.0 International
+================================================================
+
+Applies to: everything under canon/ that is not a shell script, plus
+this README and NOTES.md. In short, all of the prose -- whatever the
+filename happens to end in. Some of it is deliberately not .txt,
+because in Unix the extension is not what makes a file what it is.
+
+Copyright (c) 2026 Tristan Freiberg
+
+This work is licensed under the Creative Commons Attribution 4.0
+International Licence (CC BY 4.0).
+
+You are free to:
+
+  Share   -- copy and redistribute the material in any medium or format
+  Adapt   -- remix, transform, and build upon the material
+            for any purpose, including commercially.
+
+Under the following terms:
+
+  Attribution -- You must give appropriate credit, provide a link to
+  the licence, and indicate if changes were made. You may do so in any
+  reasonable manner, but not in any way that suggests the licensor
+  endorses you or your use.
+
+No additional restrictions -- You may not apply legal terms or
+technological measures that legally restrict others from doing anything
+the licence permits.
+
+Full licence text:
+  https://creativecommons.org/licenses/by/4.0/legalcode
+
+Human-readable summary:
+  https://creativecommons.org/licenses/by/4.0/
+
+
+================================================================
+3. THE STORY ITSELF
+================================================================
+
+The events, characters, and structure of the Odyssey are in the public
+domain and have been for a very long time. Nothing in this repository
+claims any right over them.
+
+The prose in canon/ was written for this project. It is not adapted
+from, derived from, or based on any translation of Homer. It was
+written with assistance from Claude, an AI assistant made by Anthropic.
+
+Nothing here restricts anyone else from writing their own Odyssey, in
+any form, by any means. Neither could it.

@@ -1,0 +1,48 @@
+You would have stayed longer.
+
+You wanted the older ones, the famous dead, the men from before
+Troy. You were standing there in the dark on the shore of the
+world working out who else to call up, which tells you something
+about yourself that you will think about later.
+
+Then the crowd grows.
+
+Thousands of them, from every direction, all at once, making
+that noise. It rises. Somewhere behind them, out in the dark,
+something is coming that they are getting out of the way of --
+one of the old things, with a head that turns people to stone,
+sent up by the queen of this place to see who has been digging
+holes on her beach.
+
+Terror takes you. Straightforward, uncomplicated terror, the
+kind you have not felt since you were a boy.
+
+You run.
+
+Back down the shore, into the boat, both men already at the
+oars, nobody needing to be told. You get the ship out into the
+river of Ocean on oars alone. Then the current takes her.
+
+Then a wind comes up behind you, from nowhere, without being
+asked for.
+
+Write it down before it fades. All of it: the trench, the
+prophet, the cattle you have been warned about, your mother
+three times in your arms with nothing in them:
+
+    cat >> ship/log.txt
+
+Read what is in your trench, too, one last time. Four pourings
+or one, whichever you managed, that is what you brought to the
+dead:
+
+    cat underworld/trench_offering.txt
+
+You are going back to Circe's island first. You promised
+somebody, or you did not, depending on what happened on a roof.
+
+After that there is a stretch of flat water where the wind
+drops, where the sea goes quiet in a way that is not natural,
+where you will hear something over it.
+
+    less sirens/shore.txt

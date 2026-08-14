@@ -1,0 +1,51 @@
+There is a boy on your crew called Elpenor. The youngest, and
+not the cleverest, and cheerful about things that do not warrant
+it.
+
+Look and see whether he is still on your roster:
+
+    ls ship/crew
+
+
+IF ELPENOR IS THERE --
+
+Then on the last night he goes up onto the roof of that house to
+sleep, because it is cooler up there and because he is very
+drunk. In the morning he hears everybody moving below him. He
+gets up too fast in the dark and forgets entirely where he is.
+
+He does not come down the ladder. He comes off the edge.
+
+His neck breaks and that is all of it. He is the first man you
+have lost who was not taken by anything: no giant, no rock, no
+spear, nothing that could be told as a story. He fell off a roof
+because he was young, drunk, and got up too quickly.
+
+Take him off the roster:
+
+    rm ship/crew/elpenor.txt
+
+Nobody notices until the ship is loaded. You are counting heads
+on the beach, the count is wrong by one, and there is a period
+of about ten minutes in which everybody is looking for him.
+Then somebody looks up.
+
+You do not bury him. There is no time, she has told you where
+you are going, and you leave his body in that clearing lying out
+in the open. Every man on that ship knows you did.
+
+This becomes a problem. Not a metaphorical one.
+
+
+IF ELPENOR IS NOT THERE --
+
+Then he is in a grove on another island with a flower in his
+hand, perfectly happy, and has been for a year and a half. He
+does not fall off anything. There is nobody to leave unburied.
+
+You will find out later what that was worth. It is not nothing.
+
+
+Either way, the ship is loaded by dawn.
+
+    less circe/departure.txt

@@ -1,0 +1,24 @@
+An island with nobody farming it, which on this coast means
+either the ground is bad or something else is wrong.
+
+Goats everywhere, unbothered, unafraid of men. You eat well for
+the first time in three weeks.
+
+Across a narrow strait, the mainland, where there is smoke. Not
+a town. One fire, and sheep on the hillside above it, and a cave
+mouth big enough to see from here.
+
+There is a rule about strangers. You arrive, they feed you, you
+exchange gifts, you leave as guests. It has held everywhere you
+have ever been. You are curious about whether it holds here, and
+you are curious in the way that has cost you before.
+
+Take a few men and find out. Bring something from the hold --
+you do not arrive at a stranger's house empty-handed, and there
+is one thing down there that a priest told you to keep.
+
+    less cyclops/cave/entrance.txt
+
+This one ends on the water, not on the island:
+
+    cyclops/open_water.txt

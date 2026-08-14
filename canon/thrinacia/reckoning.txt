@@ -1,0 +1,53 @@
+Now find out what it cost, exactly, if you can.
+
+    ls thrinacia/herd | wc -l
+
+That is what is left. Whether you know what it was before
+depends on one command you were offered on the first evening,
+before the wind turned, when there was nothing obviously at
+stake.
+
+
+IF YOU MADE THE COPY --
+
+Then there is a second meadow on this island that nothing has
+been taken out of. Set it against the real one:
+
+    diff -r thrinacia/herd_as_found thrinacia/herd
+
+diff compares two files. With -r it compares two whole
+directories, walking down through both, reporting everything
+that is in one but not the other.
+
+Every line it prints beginning "Only in" is an animal that was
+standing in that field when you walked up there with the sun
+going down, is not standing in it now. Count them:
+
+    diff -r thrinacia/herd_as_found thrinacia/herd | grep -c "^Only in"
+
+You have a number. You will say it out loud in Alcinous' hall in
+a few months, then again in your own hall in a few years, then
+to anybody who asks for the rest of your life.
+
+Remember this command. There is a version of it waiting at the
+very end of this voyage, pointed at something larger than a
+meadow.
+
+
+IF YOU DID NOT MAKE THE COPY --
+
+Then you have a field with some cattle in it. You know it is
+fewer than there were. How many fewer is not recoverable, since
+the only record of the before was a copy you did not make.
+
+Nothing is recoverable. The cattle are eaten either way; the
+difference is entirely in what you can say afterwards.
+
+That is what the scroll on copying was about. It said so, in the
+first week, in a sentence you read on a beach in Thrace: a copy
+made beforehand is the only way back.
+
+
+Six days of this. On the seventh the wind drops.
+
+    less thrinacia/wreck.txt

@@ -1,0 +1,86 @@
+The fire is the only light in here and he keeps it low.
+
+Everything now depends on whether there is a sealed jar in your
+hold, and there is or there is not, and that was decided in a
+town in Thrace weeks ago by a man who had no idea what he was
+deciding.
+
+Look. It only takes a moment:
+
+    ls ship/hold
+
+
+IF THE JAR IS THERE --
+
+Then this is what the priest meant, and he knew, and that is
+what priests are for.
+
+Bring it in and give it to him. Undiluted it would put a large
+man on his back; he is four of them, and he has never had wine
+in his life, and he drinks it like milk and holds the bowl out
+for more. Three times. He tells you it is the best thing he has
+ever tasted and asks your name again so he can give you a gift,
+and you tell him whatever your name is now.
+
+    mv ship/hold/maron_wine.jar cyclops/cave
+
+Then he drinks the lot, and there is no lot left, and an empty
+jar is not a thing you are carrying home:
+
+    less scrolls/rm.txt
+
+He goes down like a felled tree, face up, across the door. He
+does not stir when you kick him. That is what you needed and it
+is more than you had any right to.
+
+
+IF THE JAR IS NOT THERE --
+
+Then he sleeps the way a man sleeps who has merely eaten, which
+is not deeply enough, and you go at him with the stake anyway,
+in the dark, with four men and no margin.
+
+It works. It also wakes him halfway, and he gets a hand on one
+of them before the point goes home.
+
+One more name off the roster. You are getting practised at this
+and that is not a thing to be pleased about. Choose him from
+ship/crew and rm him, and know that he is dead because a jar of
+wine is sitting in a hut in Thrace where you left it.
+
+That is the whole cost of the choice you made weeks ago, and
+this is the only place it is ever added up.
+
+
+EITHER WAY, AT SOME POINT IN THE NIGHT, THE STAKE GOES IN.
+
+He screams. Not like a man. He tears it out and throws it and
+then he starts shouting up the hillside for his neighbours, and
+they come as far as the rock and ask him through it who is
+hurting him.
+
+And he tells them, truthfully, that Nobody is.
+
+They tell him that if no one is attacking him then this is a
+sickness sent by Zeus, and there is nothing to be done about it,
+and he should pray to his father Poseidon. Then they go back to
+bed.
+
+There is a thing happening in his language that cannot happen in
+yours. The word he is shouting and the word for cunning are the
+same letters. Only the spacing differs, and the way the voice
+goes up. Nobody is killing me, he is howling into the dark, all
+night, and what he is also saying, exactly, is: cunning is
+killing me.
+
+You lie under a sheep in the corner of the cave and listen to a
+blind giant tell the truth about you in a language you barely
+speak, and your heart laughs.
+
+In the morning he is blind and the door is open, because a blind
+man still has to let his sheep out.
+
+He is standing in the doorway with his hands out, feeling every
+back that goes past. Sheep go past. Men do not.
+
+    less cyclops/cave/sheep/ram.txt

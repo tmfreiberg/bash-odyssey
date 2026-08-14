@@ -1,0 +1,82 @@
+The wind drops on the seventh day. You put to sea within the
+hour. Nobody suggests waiting.
+
+The island goes under the horizon behind you. Then there is
+nothing in any direction but water.
+
+Then one cloud.
+
+It stands over the ship. Not near it: over it, holding position,
+while the sea underneath goes black. The west wind arrives all
+at once, screaming, out of nowhere, snapping both forestays
+backwards so the mast goes down aft across the steersman's
+skull. He goes over the side like a diver.
+
+Then Zeus does it himself.
+
+Thunderbolt into the hull. The whole ship fills with sulphur.
+Every man aboard is in the water in the same second, carried
+past the black hull on the swell like a flock of sea birds, no
+shouting, nothing, gone.
+
+The god takes their homecoming from them. That is the phrase.
+Not their lives: their homecoming. They had one until six days
+ago.
+
+Take them off the roster. All of them. Every name in ship/crew
+except your own:
+
+    ls ship/crew
+
+    less scrolls/rm.txt
+
+Everyone. Eurylochus, who was right about the small things four
+times, wrong once, at the end. Anybody you carried down from a
+grove full of flowers eighteen months ago so that he could
+drown here instead. Whoever is left of the men you counted on
+the deck at Telepylus.
+
+The ship is timber on the water.
+
+Everything in the hold goes down with her. Whatever you carried
+out of a burning town in Thrace in the first week, whatever you
+have added since, all of it is on the bottom in eighty fathoms
+inside a minute. There is no salvage from a hull that has been
+hit by a thunderbolt.
+
+    ls ship/hold
+    rm -r ship/hold
+
+One thing comes out of the water with you, because it was in
+your hand when the mast came down, because you have carried it
+since a beach at Ismarus with six dead men on it:
+
+    less ship/log.txt
+
+That is the whole of what you own now.
+
+You lash the keel to the mast with the backstay, you get onto
+that, the south wind comes up again to take you back towards the
+strait you came through.
+
+All night. Towards Charybdis.
+
+You go over her at dawn as she takes the water down. The keel
+goes into the funnel. You catch the fig tree above it, hang
+there like a bat, no footing, nothing to climb, holding on for
+the hours it takes her to bring the timbers back up.
+
+Then you drop onto them, paddle clear with your hands.
+
+Nine days on the open sea, alone, on the wreckage of a ship that
+had a crew on it a week ago.
+
+Write it down. This is the last entry you will make for a very
+long time:
+
+    cat >> ship/log.txt
+
+On the tenth night the gods put you ashore on an island with one
+person living on it.
+
+    less ogygia/shore.txt

@@ -1,0 +1,35 @@
+Redirection -- > and >>
+
+Every command prints its results to the screen. That is a
+default, not a law. Put > and a filename after a command and the
+results go into the file instead:
+
+    cat > log.txt
+
+Now cat is waiting for you to type, and what you type is going
+into log.txt rather than onto the screen. Write your entry.
+Press Ctrl-D on an empty line to finish.
+
+Read it back:
+
+    cat log.txt
+
+Here is the part that will cost you something one day.
+
+    >   sends output to a file, destroying whatever was in it
+    >>  sends output to a file, adding to the end of it
+
+They are one character apart and they do opposite things. > does
+not warn you. > does not ask. If log.txt held nine days of
+writing and you type
+
+    cat > log.txt
+
+then log.txt holds whatever you type next, and the nine days are
+gone. There is no undo, no bin, and no copy unless you made one.
+
+To add to a log without destroying it, always:
+
+    cat >> log.txt
+
+Get in the habit now, while the log is one day old.

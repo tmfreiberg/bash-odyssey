@@ -1,0 +1,24 @@
+The grove is the whole country. There is nothing else here --
+no fields, no boats, no walls, nothing anybody built. Just trees
+and the people under them.
+
+They are gentle and slightly slow and they are pleased to see
+you, in the way that someone half asleep is pleased. They offer
+you food before you have said anything, because that is what
+they have and what they do. There is no trick in it. They are
+being kind.
+
+It is a flower. They eat it and they eat nothing else.
+
+Your three men are sitting among them. They are not hurt, not
+held, not drugged asleep in a corner. They are fine, and that is
+the difficulty. They are perfectly fine.
+
+Go and talk to them. They are at the far side, under the trees:
+
+    ls lotus/inland/eaters
+
+They are still offering you the flower, by the way. They will go
+on offering it the entire time you are here.
+
+    less lotus/inland/lotus.txt

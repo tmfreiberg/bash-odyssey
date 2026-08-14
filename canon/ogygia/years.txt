@@ -1,0 +1,66 @@
+Seven years.
+
+Not a season, not a stretch. Seven times through the whole
+turning of the year on an island where the year does not turn
+much. Longer than the war. Longer than everything between Troy
+and this beach put together, twice over.
+
+Nothing happens in them. That is not an omission in the telling.
+Homer gives seven years the space he gives an afternoon, because
+there is nothing in them to give space to.
+
+The days go: the rock above the beach, the water, the horizon
+with nothing on it. Weeping, at first. Then not weeping, which
+is worse, because it means the thing has settled.
+
+At night you go back to the cave. She is willing; you are not,
+much; the arrangement holds anyway, in the way arrangements do
+when one party owns the island.
+
+You write nothing. There is no log here. There is no ship to
+keep it on.
+
+So the only record of your life on this voyage is the one you
+made without meaning to.
+
+    less scrolls/history.txt
+
+Every command you have typed, in order, numbered, kept by the
+machine while you were busy:
+
+    history
+
+Too much of it to read. Cut it the way you cut the Sirens'
+song:
+
+    history | wc -l
+
+Then look at what you actually did. Not what happened to you --
+what you did, with your hands:
+
+    history | grep rm
+
+There it is. Six at Ismarus, on a beach, in the dark, when they
+were still strangers to you. Two in a cave. One man on a track
+above a harbour, because a girl at a well was helpful. Elpenor
+on Circe's island, if he was still aboard to fall off anything
+-- some of that boy's luck was decided in a grove full of
+flowers a year and a half earlier. Six against a cliff face
+while you watched a whirlpool. A whole crew, all at once, in
+open water.
+
+Every one of those is a line you typed. Nobody typed it for you.
+
+    history | grep "ship/crew"
+
+That is the roster, from twenty men down to one, in your own
+keystrokes.
+
+One thing worth knowing before you rely on it: that record
+belongs to the window you are sitting in. Close it, come back
+tomorrow, some of the earlier voyage may be gone. Which is
+correct, on this island. Nobody keeps the whole of it. You are
+already losing pieces, sitting on a rock in the sun with nothing
+to write on.
+
+    less ogygia/hermes.txt

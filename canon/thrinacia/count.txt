@@ -1,0 +1,48 @@
+Seven herds in seven meadows, running down to the water.
+
+    ls thrinacia/herd
+
+Three hundred fifty animals. Count them rather than taking the
+number on trust:
+
+    ls thrinacia/herd | wc -l
+
+Read one. They are all like this:
+
+    less thrinacia/herd/cow_001.txt
+
+Nothing on this island has aged. The two herdswomen have nothing
+to do but look, because there are no calves to bring on, no old
+beasts to cull, no losses to make up. The count was three
+hundred fifty before Troy. It will be three hundred fifty after
+Ithaca.
+
+Which means any change in that number is visible from a very
+long way off. Including from the sky.
+
+
+Now do the one thing you have never bothered to do on this
+voyage.
+
+There is a scroll you were given at Ismarus, in the first week,
+before any of this. It is about copying. You have never once
+needed it. You have deleted men in four places since then with
+no way back, because a way back was never on offer.
+
+    less scrolls/cp.txt
+
+Copy the herd. Not the animals -- there is no copying those.
+The record of them: every file in that meadow, duplicated
+somewhere it will survive you falling asleep.
+
+    cp -R thrinacia/herd thrinacia/herd_as_found
+
+That is the -R from the scroll, which copies a directory with
+everything inside it. Three hundred fifty files, one command,
+no time at all.
+
+Nobody is making you do it. It is the difference between knowing
+tomorrow morning exactly what was taken from you, or saying
+"some" about it for the rest of your life.
+
+    less thrinacia/locked.txt

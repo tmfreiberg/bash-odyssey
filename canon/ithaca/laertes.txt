@@ -1,0 +1,43 @@
+You go out to the orchard in the morning.
+
+Your father is on his knees in the dirt with a spade, banking up
+a vine. Patched tunic. Stitched leather gaiters against the
+brambles. Goatskin cap. He is dressed for nobody, because nobody
+comes out here.
+
+He is very old.
+
+You stand under a pear tree watching him work for a while, then
+you do the thing you have done on every island of this voyage.
+You tell him a lie.
+
+You ask him whose garden this is, you say you are looking for a
+man you entertained years ago, you say the name, you watch your
+own father put dirt on his head with both hands over a son you
+say has been missing for twenty years.
+
+It takes you eleven more lines to stop.
+
+Then: I am he. I am here. I am home.
+
+He wants proof. Everybody wants proof. You give him the scar,
+then you give him the better one, because he taught you to know
+a tree the way other men know their neighbours:
+
+    ls ithaca/orchard
+
+You were a boy following him around this orchard asking for
+things, so he gave them to you, one at a time, walking:
+thirteen pear trees, ten apple, forty fig, fifty rows of vines
+ripening at different times so there would be grapes all season.
+
+You say the numbers back to him.
+
+That is what finishes it. Not the scar: the inventory. A boy who
+was given a list of trees by his father in the year he was old
+enough to remember it, saying it back nearly forty years on, in
+the same orchard, correct.
+
+His knees go. You catch him.
+
+    less ithaca/end.txt

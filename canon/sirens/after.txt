@@ -1,0 +1,41 @@
+Two of them get up off the benches, come over, put more rope on
+you.
+
+That is what they were told to do. Somebody nodded at somebody
+else, both of them deaf, both of them watching their captain
+scream silently against a mast with his face working. Then they
+tightened it.
+
+The singing thins out. Then it is behind you. Then there is
+nothing but the oars.
+
+When the island is well astern they take the wax out of their
+own ears first. Then they untie you.
+
+Nobody asks you what you heard.
+
+That is the thing to notice. Twenty men row past the most famous
+sound in the world with wax in their heads, they watch their
+captain lose his mind against a rope for an hour, then they
+unpick the knots, coil the line, sit down. Not one of them asks.
+
+They have stopped asking. That happened somewhere between a
+harbour with a narrow mouth, a house in an oak wood.
+
+Write down what you heard. This is the only record there will
+ever be of it, because everybody else on this ship was deaf:
+
+    cat >> ship/log.txt
+
+Then read your own log back from the beginning, as far as it
+goes. You are about to be told something by a man who was told
+it by a prophet:
+
+    less ship/log.txt
+
+Ahead there is a narrows. Circe named it the night she named the
+Sirens. She said it is the one place on this voyage where there
+is no clever answer, where every option is bad, where a captain
+who tries to save everybody loses the ship.
+
+    less scylla/shore.txt

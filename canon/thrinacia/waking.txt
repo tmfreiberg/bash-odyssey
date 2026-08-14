@@ -1,0 +1,75 @@
+You smell it before you are properly awake. Roasting fat, on the
+wind, coming up from the shore.
+
+You come down the hill knowing exactly what has happened,
+knowing exactly how long it has been going on, working out with
+every step how many of them it took.
+
+Six days. They have been at it six days.
+
+The best of the herd. Sacrificed correctly, every rite observed,
+water sprinkled instead of the barley they no longer have, oak
+leaves in place of the grain. Thigh bones wrapped, burned,
+covered in fat. They did it properly. That is the part that
+makes it worse: they were not thieves about it, they were
+careful, they meant the temple.
+
+Take them off the island. Nothing that has been eaten is still
+standing in that meadow:
+
+    ls thrinacia/herd | wc -l
+
+Then remove what they took. Not all of it -- they are hungry men
+working with bent hooks, not an army. Fifty head, over six days,
+which is a herd.
+
+The notice on those files says they may not be written to. It
+does not say they cannot be removed. Your crew found this out
+before you did:
+
+    ls thrinacia/herd | head -50
+
+That is the list. Remove exactly those.
+
+    less scrolls/rm_recursive.txt
+
+You can do it one at a time. You can do it with a pattern. You
+will find, if you try the pattern, that the notice you set does
+not save a single one of them, which is the whole lesson of that
+scroll in one line.
+
+
+Then Helios notices.
+
+He goes to Zeus the same hour. He says: make them pay for my
+cattle, or I stop shining for the gods altogether. I will go
+down among the dead. I will shine there instead.
+
+Zeus tells him to keep shining. Zeus says he will see to it
+personally.
+
+Meanwhile the gods put a sign on that beach, so that nobody
+could later claim not to have been told.
+
+The hides move. Flayed, salted, pegged out on the sand, they
+crawl along the ground by themselves.
+
+The meat bellows. On the spits, over the fire, raw pieces as
+well as cooked, all of it making the noise a cow makes, going on
+for as long as the fire is lit.
+
+The animals are dead. That is the horror of it -- this is not
+something struggling, it is butchered meat being made to speak.
+A sign, delivered plainly, at the top of its voice, for six
+days.
+
+Your men go on eating.
+
+Not out of defiance. Not because they doubt what they are
+hearing. They sit around a fire listening to their dinner low at
+them, then they eat it, because the alternative is another
+morning on the rocks with a bent hook.
+
+That is how hungry thirty days had made them.
+
+    less thrinacia/reckoning.txt

@@ -1,0 +1,11 @@
+pwd -- print working directory
+
+You are always standing somewhere. pwd tells you where.
+
+    pwd
+
+It prints a path: a list of directories separated by slashes,
+starting from the root of the filesystem. Read it left to right
+as a route from the top of the world down to your feet.
+
+The last name in the path is where you are.

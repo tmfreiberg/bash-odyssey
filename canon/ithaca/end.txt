@@ -1,0 +1,92 @@
+There is a last fight. It is over quickly.
+
+The families of the dead men come out to the orchard with
+weapons. Laertes, who is seventy-something, throws first, kills
+the father of the man you shot through the throat with your
+second arrow. Then Athena shouts once, in her own voice, from
+the middle of the field.
+
+Everybody drops everything they are holding.
+
+Zeus puts a bolt into the ground in front of her to make the
+point. She tells them to stop. They stop. She makes an oath
+between them that holds afterwards, so that the island does not
+spend the next thirty years killing itself over a hall full of
+suitors.
+
+That is the end of the story. It goes out on a truce in an
+orchard rather than on anything triumphant.
+
+
+You are home. Twenty years.
+
+Nobody who sailed with you is. Every man on the roster at
+Ismarus is on the bottom of the sea somewhere between here and
+Troy, or sitting in a grove full of flowers, or eaten in a cave
+by something that could not see him.
+
+Read your log. All of it, in one go, from Troy:
+
+    less ship/log.txt
+
+That is the record you kept by hand, on nights when you were
+tired, in your own words, on a ship that no longer exists.
+
+    wc -l ship/log.txt
+
+Count how many lines ten years came to.
+
+
+Now the last command of this voyage.
+
+There is a version of your story that never changed -- the one
+this game was dealt from, sitting in canon/, untouched since the
+morning you first ran begin.sh. Every choice you made since
+Ismarus made your copy diverge from it.
+
+Set them against each other:
+
+    diff -r canon play
+
+You rehearsed this in a meadow on Thrinacia, on a herd of cattle
+you had copied the night before, which was one command that cost
+you nothing at the time.
+
+Read what comes back.
+
+Every "Only in canon" is something you destroyed: a man you
+took off the roster, a fleet you deleted in a harbour, a hold
+that went down with a ship.
+
+Every "Only in play" is something you made: a log, an oath, a
+raft, a trench, a name in a cave, a son.
+
+Every "differ" is a file you touched.
+
+That listing is the difference between the Odyssey that was
+lying on this disk when you started, the one you actually had.
+
+Nobody else's looks like it.
+
+
+    alias
+
+One more thing, since you are home, since you own this house.
+
+    less scrolls/alias.txt
+
+Make yourself a command. Any command, in whatever shape fits
+your hand. The man of many turns, of many devices, of many
+names, ends his voyage by naming a tool after himself.
+
+Then, if you want to sail again, there is a fresh copy waiting
+in canon/, dealt out by one line of shell you now understand
+completely:
+
+    ./begin.sh --restart
+
+
+                        NOSTOS
+                     a homecoming
+
+              Troy fell. We sailed. Twelve ships.

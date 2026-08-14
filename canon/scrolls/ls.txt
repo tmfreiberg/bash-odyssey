@@ -1,0 +1,29 @@
+ls -- list
+
+Shows what is in the place you are standing.
+
+    ls
+
+Names with a slash after them, or in a different colour, are
+directories: places you can go. The rest are files: things you
+can read.
+
+To look somewhere without going there, name it:
+
+    ls town
+
+And to see more than the names -- how big a thing is, when it
+was last touched:
+
+    ls -l
+
+The -l is an option. Most commands take options, and they
+usually start with a dash.
+To look inside a directory, and inside every directory in it,
+all the way down:
+
+    ls -R town
+
+That is one listing of everything underneath a name. On a small
+directory it is a convenience. On a large one it is the only way
+to know what you are actually looking at.

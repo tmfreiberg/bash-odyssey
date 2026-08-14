@@ -1,0 +1,44 @@
+She sits them down on chairs with silver on them. Cheese,
+barley, pale honey stirred into wine. It is good. They are five
+days out from a harbour full of drowned men. They drink it.
+
+There is something in it. Not poison. Something that takes the
+part of a man that remembers where he is from, and puts it away
+somewhere he cannot reach.
+
+Then she stands up and touches each of them with a rod.
+
+What is on the floor of that hall a moment later has a pig's
+head, a pig's bristles, a pig's voice, and no hands.
+
+Their minds are not touched. That is the thing. Every one of
+them knows exactly what has happened and exactly who he is. None
+of them can say so. None of them can say anything. They stand in
+a silver-fitted hall making a noise like an animal in a market.
+
+She drives them out to a pen behind the house and throws down
+acorns for them, which is what pigs eat.
+
+There is no pen there yet. Make one:
+
+    less scrolls/mkdir.txt
+
+Then put them in it. All of them, in one command. They went in
+together, it happened to all of them at once, and the wildcard
+you learned on the floating island is how you say "everything in
+this house that is a man":
+
+    mv circe/house/*.txt circe/house/sty
+
+The hearth in that house is not a man and will not move. The
+pattern you just used does not match hidden things. That is why
+she keeps a fire nobody tends.
+
+Go and look at them in the pen. Read one of the files. It has
+not changed by a single word: the same man, the same detail you
+learned at Ismarus, the same everything, in a pen, eating acorns.
+
+Eurylochus watches the whole thing from the treeline and then
+runs.
+
+    less circe/path.txt

@@ -1,0 +1,27 @@
+head, tail -- the top or the bottom of a file
+
+Some files are too long to read. These two give you an end of
+one without the middle.
+
+    head dead.txt
+
+The first ten lines. That is the default.
+
+    tail dead.txt
+
+The last ten. To ask for a different number, name it:
+
+    head -n 3 dead.txt
+    tail -n 40 dead.txt
+
+Both work on anything a file can be. Both leave the file
+untouched. Neither one tells you what you did not ask to see,
+which is the point of them: a file you cannot read at all
+becomes a file you can read the useful end of.
+
+They take piped input as well:
+
+    sort dead.txt | head -n 5
+
+The first five lines of a sorted list, without ever making a
+sorted file.

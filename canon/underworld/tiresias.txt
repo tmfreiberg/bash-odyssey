@@ -1,0 +1,39 @@
+He knows you before he drinks.
+
+He is the other exception, for the opposite reason to the boy.
+Elpenor keeps his voice because nothing here has claimed him yet.
+Tiresias keeps his because Persephone let him keep it -- she took
+the rest of him, left the mind alone, so that there would be one
+in this place who could still think. That is why Circe sent you
+down here for him rather than for anybody else.
+
+He asks why you have left the light to come down among the dead,
+which is a fair question, then tells you to stand back from the
+trench so he can drink.
+
+You let him. The sword comes down.
+
+When he has drunk he speaks, straight through, without stopping.
+It is long. He gives it once.
+
+    less underworld/prophecy.txt
+
+That is what he said. It is more than you can hold in your head
+on a beach in the dark, so take an end of it at a time:
+
+    head underworld/prophecy.txt
+    tail underworld/prophecy.txt
+
+The beginning is about the sea. The end is about your own death,
+which he describes without being asked, in detail, as a kindness.
+
+The middle is about the cattle. Read it if you want it. Every
+man who has ever been told a prophecy has read the middle.
+
+Then he tells you that any shade you allow to drink will speak
+to you, that any you keep back will stay silent. Then he is
+gone, back into the house of Hades, unhurried.
+
+Your mother is still standing at the edge of the trench.
+
+    less underworld/anticleia_drinks.txt

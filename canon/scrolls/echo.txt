@@ -1,0 +1,26 @@
+echo -- print something
+
+    echo hello
+
+It prints hello. That is all it does, and it is one of the most
+used commands there is, because printing something is how you
+get it into a file:
+
+    echo hello > greeting.txt
+
+Now greeting.txt contains one line. The > and >> work exactly as
+they did with cat -- > destroys what was there, >> adds to the
+end -- but you do not have to sit typing and press Ctrl-D. One
+line, one command, done.
+
+    echo and another line >> greeting.txt
+
+If what you are printing has punctuation in it, put it in
+quotes. The shell treats several characters as instructions
+rather than as text, and quotes tell it not to:
+
+    echo "I swear it, and I will not go back on it." > oath.txt
+
+Use quotes whenever there is anything in the line but plain
+words. It costs two characters and it removes a whole category
+of surprise.

@@ -1,0 +1,27 @@
+Nine days on a keel lashed to a mast. On the tenth night
+something puts you on a beach.
+
+You do not remember arriving. You remember water, then sand
+under your face, then a very long time of neither.
+
+Ogygia. The navel of the sea. Not on the way to anywhere, not
+near anything, visited by nobody, because there is nothing here
+to visit except her.
+
+She finds you above the tideline. She is a goddess, daughter of
+Atlas, who holds the pillars that keep the sky off the earth.
+Her name is Calypso, which in your language is close to the word
+for hiding something.
+
+She takes you in. She feeds you. She asks nothing at all.
+
+You are the only man on this island. You will be the only man on
+this island for a very long time.
+
+    less ogygia/cave.txt
+
+This island ends the day you get off it:
+
+    ogygia/departure.txt
+
+Read that when the raft is in the water, not before.

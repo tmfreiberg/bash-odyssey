@@ -1,0 +1,67 @@
+You walk down to the house the next morning. Eumaeus goes ahead.
+You come behind on a stick, in the rags, taking your time,
+because that is what a man of seventy does.
+
+At the gate there is a dog lying on a heap of dung, in the sun,
+covered in ticks.
+
+You bred him. You picked him out of the litter yourself before
+you sailed. You never worked him -- you left before he was old
+enough. The young men in the house hunted with him for a while
+after you went, then they stopped bothering.
+
+His name is Argos.
+
+He is the oldest thing on this island that remembers you.
+
+    ls -l ithaca/hall
+
+The long listing has a column you have never had a reason to
+read on any island of this voyage: the date. Every file carries
+the moment it was last written to. Everything in that directory
+was put there the morning your voyage was dealt out, so the
+dates are all the same, all recent, all meaningless.
+
+Except one.
+
+    ls -lt ithaca/hall
+
+The -t sorts by that date instead of by name, newest first, so
+the oldest thing falls to the bottom of the list.
+
+    ls -lt ithaca/hall | tail -n 1
+
+There he is. Twenty years old, in a directory where nothing else
+is more than a few days old, because nothing has been done to
+him since before you left.
+
+    less ithaca/hall/argos.dog
+
+He lifts his head. He gets his ears up. He is too weak to stand,
+so he does the only thing left: he moves his tail, twice.
+
+He does not bark. He knows better than to bark. He knows exactly
+who this is, off a smell he has not had in twenty years, from a
+man his own household cannot pick out of a crowd.
+
+You look away. You wipe your face with the back of your hand
+where Eumaeus cannot see it.
+
+Then Argos dies. That hour, in the sun, having seen you.
+
+Nobody else in this house will know you for another four days.
+The dog took eight seconds.
+
+Then you go in through your own front door for the first time in
+twenty years, on a stick, behind a swineherd, to beg for scraps
+at your own table.
+
+You spend the evening being insulted by young men who are eating
+your cattle. One of them throws a footstool at you. You take it
+on the shoulder. You stand there like a rock, thinking about
+where each of them is sitting.
+
+Later, when the hall empties, your wife comes down to question
+the beggar.
+
+    less ithaca/hall/eurycleia.txt

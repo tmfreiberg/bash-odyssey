@@ -1,0 +1,41 @@
+He walks you down to the shore himself on the last morning, and
+the winds are out on the sand, all of them, the way a kennel man
+walks you past the dogs.
+
+There are eight. He names them as you pass.
+
+    ls aeolus/winds
+
+You can read them. He does not mind. He made none of them and he
+is proud of them anyway, the way a man is proud of a good dog:
+
+    less aeolus/winds/boreas.wind
+
+Then he gives you the bag. Oxhide, flayed from a nine-year-old
+bull, and a silver cord to shut it with, and it is the finest
+thing anybody has ever put in your hands.
+
+Here is what it is for.
+
+Every wind on this beach goes into that bag except one. The one
+that stays out is Zephyros, the west wind, because west is where
+Ithaca is, and a west wind at your back is a straight road home
+and about ten days of it.
+
+Everything else -- every wind that could push you anywhere other
+than home -- goes in the bag and stays in the bag until you are
+standing on your own beach.
+
+    less scrolls/wildcards.txt
+
+The bag is aeolus/bag. The winds are in aeolus/winds. All of
+them except Zephyros go in, and there is a way of saying "all of
+them except" that does not involve typing seven names.
+
+Try the pattern with ls before you move anything. A pattern that
+lists the wrong files will move the wrong files just as happily.
+
+When it is done, look in the bag and look at the beach and make
+sure the beach still has a west wind on it. Then sail.
+
+    less aeolus/ithaca.txt

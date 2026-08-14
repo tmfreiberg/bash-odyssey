@@ -1,0 +1,44 @@
+She does it with her hand. The skin on your arms goes slack,
+the hair goes off your head, your eyes go dull the way an old
+man's do. She dresses you in a tunic somebody has been sleeping
+in, a hide with the hair worn off, a bag on a rope.
+
+You are a beggar of about seventy. Nobody in this house will
+look at you twice.
+
+You have hidden your name once before. It was in a cave on a
+hillside above a goat island, it was the best thing you ever
+thought of, it worked. Then you shouted the name back across
+four hundred yards of open water because a thing that happens to
+Nobody does not happen, which cost you a fleet, a crew, ten
+years.
+
+Do it again. Do not undo it this time.
+
+Your name is a file. Where it is depends on what you did that
+night:
+
+    find . -name "odysseus.txt" -o -name "outis.txt"
+
+Move it out of sight. Not into a cave this time -- into the one
+place on this island nobody has looked for twenty years:
+
+    mkdir ithaca/beggar
+    mv ship/crew/odysseus.txt ithaca/beggar/.nobody
+
+A file whose name begins with a dot does not show in a plain
+listing. You learned that in the dark with a rock across the
+door. It is the same rule in your own house.
+
+Check that you have vanished:
+
+    ls ithaca/beggar
+    ls -a ithaca/beggar
+
+If your name is still in a cave under outis.txt, bring it home
+first. It has been in the wrong country long enough.
+
+Athena tells you where to go. Not the house: a hut, up the
+island, where the swineherd lives.
+
+    less ithaca/hut/eumaeus.txt

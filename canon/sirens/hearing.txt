@@ -1,0 +1,63 @@
+They see the ship. They start.
+
+    less sirens/song.txt
+
+You cannot read that. It is six hundred lines. It does not stop,
+it does not pause, it has no shape you can hold, most of it is
+the same three words over the top of a catalogue of everything
+that ever happened on the plain at Troy.
+
+That is the trick. It is not beautiful. It is not seductive in
+any way a man could describe afterwards. It is a wall of
+knowing, poured at you at a rate no one could take in, so that
+the only way to have any of it is to stop the ship.
+
+You are tied to a mast. You cannot turn pages. All you can do is
+search.
+
+    less scrolls/regex.txt
+
+How much of it there is:
+
+    wc -l sirens/song.txt
+
+Now strip the chant. Nine lines in ten begin with the same two
+words; a caret means "at the start of the line"; -v gives you
+everything that does not match:
+
+    grep -v "^We know" sirens/song.txt
+
+That is what is left when the catalogue comes off. Twenty lines.
+Every one of them is addressed to you by name or as good as.
+
+Count how often they use it:
+
+    grep -c Odysseus sirens/song.txt
+
+Then find where in the song a thing sits, because position tells
+you something about how they work:
+
+    grep -n Odysseus sirens/song.txt
+
+Now: three of the worst lines in that file are not in your
+twenty. They start with the same two words as the chant, so your
+filter threw them out with the noise. That is what filters do.
+They are camouflaged deliberately. Go looking for your own
+history instead:
+
+    grep Ismarus sirens/song.txt
+    grep "name you gave" sirens/song.txt
+    grep "how many you have now" sirens/song.txt
+
+There are two more lines you have been avoiding since you
+started. You know what the words are. The bar means "or", -E
+turns it on:
+
+    grep -E "Penelope|Telemachus" sirens/song.txt
+
+Nobody is making you run that one. You are tied to a mast in the
+middle of a flat sea with your own crew ten feet away unable to
+hear you. There is no version of this where you act on what
+comes back.
+
+    less sirens/meadow.txt

@@ -1,0 +1,26 @@
+The old man is called Maron. He is a priest of Apollo and he is
+still alive because your men decided he should be, which is not
+a thing that happens often on a morning like this.
+
+He does not thank you. He gives you something instead, the way
+you give a debt back before anyone can hold it over you.
+
+It is wine. Twelve jars of it, and one he presses on you
+personally, sealed, dark, so strong that the way to drink it is
+one part wine to twenty parts water. He says nobody in his house
+knows it is here except his wife and the woman who keeps the
+store room.
+
+He says: you may need this more than you need bronze.
+
+He does not explain. Priests generally do not.
+
+The jar is sitting here and it will stay sitting here. Nothing
+is yours until it is in the hold on your ship, and putting it
+there is a job for mv:
+
+    less scrolls/mv.txt
+
+Then get out of this town. You have been in it a long time now,
+and the road inland is a road in both directions. The hills
+above the town would tell you how much time you have left.

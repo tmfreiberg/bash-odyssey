@@ -1,0 +1,33 @@
+diff -- what is different between two things
+
+    diff first.txt second.txt
+
+Nothing printed means the files are identical. Otherwise diff
+tells you, line by line, what would have to change in the first
+to make it the second.
+
+Lines marked < are in the first file only.
+Lines marked > are in the second file only.
+
+To compare two directories rather than two files, walk down
+through both with -r:
+
+    diff -r orchard_before orchard_after
+
+Anything present in one but missing from the other comes back as
+a line beginning "Only in".
+
+Some flags worth having. -q reports only whether they differ,
+without listing how:
+
+    diff -q first.txt second.txt
+
+And -y puts them side by side in two columns, which is easier to
+read on short files:
+
+    diff -y first.txt second.txt
+
+diff changes nothing. It is a question, not an instruction. It
+is also the last tool this voyage gives you, which is fitting:
+everything else you have learned makes changes to the world.
+This one tells you what the changes came to.

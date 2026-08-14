@@ -1,0 +1,34 @@
+You are through in under a minute. That is the whole of it.
+
+The water goes flat on the far side the way water does. The men
+who are still rowing keep rowing. Nobody says anything for a
+long time.
+
+Then somebody at the back begins to weep, which starts the rest
+of them.
+
+You take the armour off. You do it yourself, sitting down,
+badly, because your hands are not steady. Nobody helps you. It
+occurs to you while you are doing it that every man aboard now
+knows you knew.
+
+Count what is left:
+
+    find ship/crew -type f | wc -l
+
+Write it down. All of it, including what you did not tell them
+before you went in:
+
+    cat >> ship/log.txt
+
+Ahead, low on the water, there is an island with cattle on it.
+
+You can hear them from a long way out: lowing in the meadows,
+sheep bleating behind them, the sound of a large, well-kept,
+entirely peaceful farm.
+
+You have been warned about this place twice. Once by a dead
+prophet on a black beach at the edge of the world. Once by
+Circe, in her own house, in words she chose carefully.
+
+    less thrinacia/shore.txt

@@ -1,0 +1,53 @@
+He looks at you the way you look at something caught in a net.
+
+He asks who you are and where you are from, and there is no
+politeness in it. He is asking the way a man asks a sheep which
+field it wandered out of.
+
+Give him a name that is no use to him. Give him Outis.
+
+It is the Greek for "no one," and it is also close enough to a
+real name that he will not think twice about it -- the sort of
+thin, unlucky name a poor man from a poor island might actually
+be stuck with. Which is what you look like, standing in his
+doorway with nothing.
+
+This matters more than it sounds. If anything happens to him in
+the night he will shout for help, and what he shouts is the name
+you gave him, and the other Cyclopes on this hillside are as
+large as he is.
+
+So your name cannot be on the ship tonight and it cannot be
+Odysseus. It has to be in this cave, and it has to be Outis.
+
+The file is ship/crew/odysseus.txt. Where it has to end up is
+cyclops/cave/outis.txt. That is one file moved and renamed in
+the same breath, not a copy left behind on the deck, and it is
+one command:
+
+    less scrolls/mv.txt
+
+If you would rather he knew who you were, leave it where it is.
+Some men would.
+
+He listens to the name, and thinks about it, and says that he
+will eat Outis last. He means it as a guest-gift. It is the only
+joke he makes.
+
+Then he eats two of your men. Not a fight, not a struggle -- he
+picks them up and that is the end of them. Then he lies down
+across the door and sleeps.
+
+Two men who walked in here with you are not walking out. Choose
+which two from ship/crew and rm them. You knew these ones. You
+will have to say their names to their families, if you ever see
+their families.
+
+It is the same command it was at Ismarus. It does not get easier
+and it should not.
+
+Tonight you sleep in a room with a door you cannot open, and you
+do not sleep much, and some time before morning you get up and
+walk the length of the cave looking at what he keeps in it:
+
+    less cyclops/cave/pens.txt

@@ -1,0 +1,23 @@
+The jars are full. Your men are aboard, however many of them
+you have.
+
+If your log is intact, read it. Nine days and a town in Thrace,
+in your own handwriting, and it is worth something to have it.
+
+If your log is one line long, that is what you kept, and there
+is no getting the rest back. Read it anyway. It will be a while
+before you understand what it cost you.
+
+    less scrolls/grep.txt
+
+Search your own log for the name of the town you sacked. If it
+is there, you still have your voyage. If grep finds nothing, you
+know what happened.
+
+Then get off this island before anybody else eats anything.
+
+There is a run of good sailing after this, which is not worth
+writing about, and then an island with goats on it and no people,
+and a strait, and smoke on the far side.
+
+    less cyclops/shore.txt

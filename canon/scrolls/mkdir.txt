@@ -1,0 +1,24 @@
+mkdir -- make a directory
+
+    mkdir sty
+
+A new empty directory, in the place you are standing. You can
+put things in it with mv, and go into it with cd, and it is a
+place now in exactly the way every other place in this world is
+a place.
+
+You can make one somewhere else by naming the route:
+
+    mkdir circe/house/sty
+
+And you can make a whole chain of them at once with -p, which
+makes any parent directory that does not exist yet:
+
+    mkdir -p circe/house/sty/inner
+
+Without -p that fails if circe/house/sty is not already there.
+With -p it makes whatever is missing and says nothing about it.
+
+mkdir will not overwrite anything. If the name is already
+taken it stops and tells you. That is one of the few commands
+you have been given that cannot cost you anything.

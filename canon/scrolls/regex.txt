@@ -1,0 +1,46 @@
+Patterns -- what grep is really matching
+
+grep does not look for a word. It looks for a pattern. A plain
+word is the simplest pattern there is, which is why it works,
+but there is a language underneath it.
+
+    ^       the start of a line
+    $       the end of a line
+    .       any single character
+    [abc]   one character out of that set
+    [^abc]  one character not out of that set
+    *       the thing before this, repeated any number of times
+
+So:
+
+    grep "^We know" song.txt
+
+Every line that BEGINS with those words. A line with "we know"
+somewhere in the middle of it does not match.
+
+    grep "sea$" song.txt
+
+Every line ending in sea.
+
+Anchors are what make -v useful. On its own, -v gives you every
+line without a word in it. Joined to ^, it gives you every line
+that does not begin a certain way, which on a file with a
+refrain in it is the whole difference between noise, meaning:
+
+    grep -v "^We know" song.txt
+
+Two more flags worth having. -n puts the line number in front of
+each result, so you know where in a file a thing sits:
+
+    grep -n Ithaca song.txt
+
+And -E turns on the fuller pattern language, which includes
+alternation. The vertical bar means "or":
+
+    grep -E "Penelope|Telemachus" song.txt
+
+That is one search for two words. Without -E the bar is just a
+bar, matched literally, finding nothing.
+
+Quote your patterns. Always. The shell reads several of those
+characters as instructions before grep ever sees them.

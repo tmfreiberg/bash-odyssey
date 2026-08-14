@@ -1,0 +1,42 @@
+find -- look through everything below a place
+
+ls shows you one directory. find walks the whole tree under a
+name, every level of it, reporting what it meets.
+
+    find .
+
+The dot means "here". That prints every file, every directory,
+below where you stand. On a large tree it is far too much, which
+is why find takes tests.
+
+Match by name:
+
+    find . -name "outis.txt"
+
+Wildcards work, quoted so the shell hands the pattern to find
+rather than expanding it first:
+
+    find . -name "*.wind"
+
+Match only files, or only directories:
+
+    find . -type f
+    find . -type d
+
+Start somewhere other than here by naming the place:
+
+    find ship/crew -type f
+
+Combine tests. They all have to be true:
+
+    find . -type f -name "*.txt"
+
+find prints one result per line, which makes it the natural
+front of a pipe:
+
+    find ship/crew -type f | wc -l
+    find . -name "*.wind" | sort
+
+That is the real use of it. ls answers "what is in this room".
+find answers "where in this whole house is the thing I am
+thinking of, if it is anywhere".

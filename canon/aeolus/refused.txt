@@ -1,0 +1,40 @@
+The bronze wall again. The gate again. You walk up to the hall
+with two men and you sit down at the edge of the table like a
+beggar, which you have never done anywhere.
+
+He is astonished. He is genuinely, openly astonished, and he
+says: what are you doing here? You had the best wind in the
+world and a road home and I gave you both.
+
+And you tell him. Your crew, and your sleep, and the knot.
+
+There is a silence in that hall that you will remember later, on
+other islands, when things are worse. It is the silence of a man
+revising his opinion of you in front of you.
+
+Then he throws you out.
+
+Not angrily. He says: get off my island. He says a man this
+hated by the gods is not a man I can help, because helping him
+would be helping against them, and I am not doing that for
+anybody.
+
+He does not give you a second bag. There was never going to be a
+second bag. That is not how gifts work and you of all people
+knew it.
+
+Write it down, all of it, including the part where you did not
+tell them what was in the bag:
+
+    cat >> ship/log.txt
+
+Then row. There is no wind at all now -- he has seen to that
+too, or it is the sea being what it is -- and you go out from
+that island under oars, and your men do not look at you, and it
+takes six days.
+
+On the seventh there is a harbour with a narrow mouth and cliffs
+on both sides of it, and every ship you have left goes into it
+except one.
+
+    less laestrygonia/shore.txt

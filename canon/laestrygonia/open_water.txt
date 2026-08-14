@@ -1,0 +1,53 @@
+You cut the cable.
+
+Not untied. There was no time to untie anything. You had your
+sword out and you went through it in one stroke and shouted at
+your men to row for their lives, and they did, because they had
+been watching it happen over the rail for four minutes.
+
+One ship out of that gap. Yours, because you tied up outside for
+no reason you could name.
+
+Eleven crews did what they were told. They went into the safe
+harbour with the flat water, which is what any sailor alive
+would have done, and it killed every one of them.
+
+That is the part to write down, and the part you will want to
+leave out. Not that you were clever. That you were not clever --
+that you did a thing you could not explain and it saved you, and
+four hundred men did the sensible thing and are on the bottom of
+that harbour.
+
+    cat >> ship/log.txt
+
+
+Now count what is left, because you are going to be asked.
+
+Not the fleet. There is no fleet. The men on this hull, and it
+is a number you have never had to know before tonight, because
+until tonight there was always another ship to signal.
+
+    ls ship/crew
+
+That prints the names. What you want is how many, and there is a
+way of taking what one command prints and handing it straight to
+another command that counts:
+
+    less scrolls/pipes.txt
+
+Count them. Then count them again without yourself in the list,
+because you are not one of the men you are responsible for --
+you are the reason there is a number at all.
+
+Whatever it comes to, it is smaller than it was at Ismarus and
+it will be smaller again. Write that number in the log too. It
+is the only one anybody at home will care about.
+
+There is no fleet now. From here to Ithaca, whatever comes will
+come to this hull and these men, and there is nobody over the
+water left to signal to.
+
+The next island has smoke coming off the middle of it and a
+woman singing, and you will be able to hear her from the beach.
+
+    less circe/shore.txt

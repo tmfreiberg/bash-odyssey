@@ -1,0 +1,27 @@
+You give in. You do it with a condition.
+
+Every man swears, out loud, one at a time, before anybody steps
+off the ship: whatever we find on this island, herd or flock, we
+do not touch it. We eat what is in the hold. Circe put bread
+aboard. Circe put wine aboard. It is enough.
+
+They swear it. All of them. Without hesitation, without
+argument, in the tone of men who cannot see why you are making a
+production of something so obvious.
+
+Write it down. You made Circe swear an oath once; you kept the
+words; it was worth having them. This is the same instrument
+pointed the other way:
+
+    less scrolls/echo.txt
+
+Put it in thrinacia/oath_sworn.txt, in your words or in theirs.
+
+    echo "..." > thrinacia/oath_sworn.txt
+
+They pull the ship up in a cove with fresh water at the head of
+it. They cook. They sleep.
+
+You go up to look at what they have sworn not to touch.
+
+    less thrinacia/count.txt

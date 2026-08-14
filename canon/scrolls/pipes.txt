@@ -1,0 +1,33 @@
+Pipes -- | -- and wc
+
+You know that > sends what a command prints into a file. A pipe
+sends what a command prints into another command:
+
+    ls | wc -l
+
+Read it left to right. ls lists the files. Instead of the list
+going to the screen, it goes into wc, which counts things. The
+-l means count lines. One file per line, so: how many files.
+
+wc on its own counts lines, words and characters in a file:
+
+    wc ship/log.txt
+
+and with -l, -w or -c you ask for just one of the three:
+
+    wc -l ship/log.txt
+
+Pipes work with anything that prints and anything that reads.
+
+    grep wine ship/log.txt | wc -l
+
+That is: find every line mentioning wine, then count them
+instead of printing them. Neither command was written with the
+other in mind. That is the whole idea. Small tools that do one
+thing, joined end to end, and the joining is yours.
+
+You can chain more than two:
+
+    ls ship/crew | grep -v odysseus | wc -l
+
+Every name on the roster, minus your own, counted.

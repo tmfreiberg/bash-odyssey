@@ -1,0 +1,8 @@
+Barley, in sacks. Enough to feed twelve ships for a while.
+
+Nobody sings about grain. Nobody starves on it either.
+
+It is still under the sailcloth. Nothing is yours until it is in
+the hold on your ship, and putting it there is a job for mv:
+
+    less scrolls/mv.txt

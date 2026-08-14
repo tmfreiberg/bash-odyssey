@@ -1,0 +1,75 @@
+So you tell them.
+
+You start with the name. Out loud, unprompted, to a hall full of
+strangers -- the thing you did in every port for twenty years,
+the thing you did once in a cave, which cost you every man who
+sailed with you.
+
+I am Odysseus, son of Laertes. Men know me for my tricks. My
+fame goes up to heaven.
+
+    cat ship/crew/odysseus.txt
+
+That file has been on your roster since Ismarus. If it is not
+there, it is in a cave on a hillside under another name, which
+is a thing you will have to explain to this room.
+
+Then the rest of it. Everything since Troy, in order, in one
+sitting, to people who have never lost anybody.
+
+
+Here is the difficulty. Ten years is not in one place. It is
+scattered over this whole voyage in pieces you wrote on
+different nights, on different islands, for different reasons.
+
+Find them:
+
+    find . -name "*.txt" -newer start_here.txt
+
+Or name them, since you know what they are: your log, the
+prophecy a dead man gave you, the oaths, whatever you poured
+into a trench at the edge of the world.
+
+cat takes as many files as you give it, in the order you give
+them, joining them into one stream. That is what the word means.
+It has meant that since Ismarus; this is the first time you have
+needed it:
+
+    cat ship/log.txt underworld/prophecy.txt
+
+Now: you are speaking this aloud to a hall. Demodocus is sitting
+three seats away with a lyre on his knee, listening to every
+word, doing what bards do with what they hear. These people are
+sailors. They carry things between islands. Whatever you say
+tonight leaves this room whether you like it or not.
+
+So it goes two places at once: out into the hall, down into a
+record.
+
+    less scrolls/tee.txt
+
+    cat ship/log.txt underworld/prophecy.txt | tee phaeacia/hall/told.txt
+
+Add the rest as you get to it, in whatever order you told it:
+
+    cat circe/oath.txt | tee -a phaeacia/hall/told.txt
+    cat ogygia/oath.txt | tee -a phaeacia/hall/told.txt
+    cat thrinacia/oath_sworn.txt | tee -a phaeacia/hall/told.txt
+    cat underworld/trench_offering.txt | tee -a phaeacia/hall/told.txt
+
+Some of those files do not exist. That is not an error to fix:
+it is the shape of your particular voyage. A man who never made
+Circe swear anything has nothing to read out at that point in
+the evening.
+
+Then find out what ten years came to:
+
+    wc -l phaeacia/hall/told.txt
+
+That is the number. Every man you sailed with, every island,
+every god who took an interest, in however many lines you
+happened to write.
+
+Nobody in that hall says anything for a while after you stop.
+
+    less phaeacia/gifts.txt

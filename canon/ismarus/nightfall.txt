@@ -1,0 +1,54 @@
+You should have gone at dawn. You said so twice and then you
+stood on the beach and let it happen, and the thing about being
+in command is that there is nobody else to blame for the hour
+you did not insist.
+
+They came out of the hills with the sun behind them, thick as
+leaves. There were more of them than you and they were better
+at it than you, and they had chariots.
+
+You held the line all morning. When the sun went down you did
+not hold it any more.
+
+Six men from every ship. On your own ship that means six of the
+crew, and you are the one who has to say which.
+
+There are twenty men in ship/crew and you have known six of
+them for ten years, and one of those six is you. The rest are
+strangers. You will know them when you read them: a detail each,
+and none of it anything you went out of your way to learn.
+
+Six of the strangers are dead. Which six is yours to say.
+
+Read them and choose the six. Then take them off the roster,
+because a dead man is not crew and the file should not be there
+any more:
+
+    less scrolls/rm.txt
+
+There is no bin it goes to. There is no way to get them back.
+That is not a limitation of the tool. That is what the tool is
+for.
+
+Then go and look at what the day bought you:
+
+    ls ship/hold
+
+Then write it down. Ten years of this and you have started to
+lose the order of it -- what happened where, which island was
+which, who you were when you did it. From tonight you keep a
+log, and you keep it up, and at the end of all this it will be
+the only thing you have that nobody can take:
+
+    less scrolls/cat.txt
+    less scrolls/redirection.txt
+
+The log is at ship/log.txt. There is already something in it.
+Add to it -- do not write over it -- and that distinction is the
+whole of the second scroll.
+
+Nine days of open water after that, with the wind off Cape Malea
+blowing the wrong way the whole time. On the tenth there is
+land, and fresh water, and nobody on the beach to meet you.
+
+    less lotus/shore.txt

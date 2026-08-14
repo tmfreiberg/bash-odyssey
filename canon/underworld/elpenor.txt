@@ -1,0 +1,71 @@
+Check whether this happened to you.
+
+    ls circe
+
+If there is a file in there called roof.txt you have read, you
+know already whether the boy fell.
+
+
+IF YOU LEFT ELPENOR IN THAT CLEARING --
+
+He is the first shade to reach the trench. Before Tiresias.
+Before your mother. He got here ahead of your ship, because a
+dead man travels light.
+
+He speaks to you without drinking anything.
+
+That is not allowed. It is the rule of this beach that a shade
+who has not drunk cannot speak, cannot know you, can do nothing
+but want -- your mother is standing four feet away proving it.
+
+The rule does not hold him because he is not properly here. Nobody
+burned him. Nobody heaped earth over him. Nothing was said. He is
+still on a roof on Circe's island as far as the accounts of this
+place are concerned, so the door was never shut behind him, so he
+can still talk to the living.
+
+He is not being spared. He is being left outside.
+
+He is not angry. That is the difficult part. He is pleased to
+see you, in exactly the way he was pleased about everything.
+
+Then he asks you why he is not buried.
+
+He was lying on his back on a roof on an island where the wine
+was free, he got up too quickly in the dark, now he is here
+without a grave marker, unwept, unburned. He says the word the
+dead use for that. It means "not yet arrived".
+
+He asks for three things. Burn him with his armour. Heap a mound
+over him on the shore. Plant the oar he pulled at the top of it,
+so that men who come after know somebody was there.
+
+Then he says: swear it now, while you are standing where I can
+hear you.
+
+Write it down. Same file the oath went in, or a new one, your
+choice -- what matters is that it exists after you leave this
+beach:
+
+    cat >> ship/log.txt
+
+You are going to have to sail back to Circe's island to do it.
+Out of your way, in the wrong direction, for a boy who was not
+clever. You will do it. It is the one promise in this whole
+voyage you keep on time.
+
+
+IF ELPENOR IS SITTING IN A GROVE ON ANOTHER ISLAND --
+
+Then he is not here. He is one of three men you left under the
+trees with flowers in their hands, happy, alive, no use to
+anybody including himself.
+
+Nobody meets you at this trench asking to be buried. There is no
+promise to make. There is no detour to sail.
+
+You will notice, some time later, that you got off lightly for a
+decision that felt at the time like abandoning him.
+
+
+    less underworld/anticleia.txt

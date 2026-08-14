@@ -1,0 +1,32 @@
+Six days rowing, with no wind at all, which is either what
+Aeolus arranged or what the sea does to a man it has stopped
+being interested in.
+
+On the seventh there is a coast, and a gap in it.
+
+The harbour is behind a mouth so narrow that two ships cannot
+pass in it, and the cliffs on either side go straight up out of
+the water, and inside there is no swell at all. Not a ripple. A
+sailor who has been at sea for six days looks at water like that
+the way a thirsty man looks at a cup.
+
+Eleven ships go in and tie up along the wall.
+
+You keep yours outside. Made fast to a rock at the harbour
+mouth, on the open sea, with the swell under her.
+
+You could not tell anybody why. There is no reason and there was
+no argument and nobody asked you for one. It is the same
+instinct that made you wait in the Cyclops' cave, and that one
+was wrong, and this one is about to be the only reason there is
+anybody left to remember either.
+
+Go and look at the fleet while it is still there:
+
+    less laestrygonia/anchorage.txt
+
+This island ends on the water, the way the last one did:
+
+    laestrygonia/open_water.txt
+
+Read that when there is nothing else left, and not before.

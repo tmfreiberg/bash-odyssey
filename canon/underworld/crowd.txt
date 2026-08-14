@@ -1,0 +1,65 @@
+The blood goes into the trench. They come up out of the dark.
+
+Not a few. Brides, unmarried boys, old men who worked their
+whole lives, girls new to grief, men in armour with the wounds
+still on them. They come around that trench in a mass, from
+every direction, making a noise that is not any noise you have
+heard.
+
+Your sword is out. Circe was exact about this: not one of them
+drinks before Tiresias drinks. Not one.
+
+You hold them off with a blade while they push.
+
+    less underworld/dead.txt
+
+You cannot read that. Nobody could read that. It is every shade
+on this shore in the order they arrived, which is the order they
+died, which is no order at all.
+
+So do not read it. Handle it.
+
+    less scrolls/head_tail.txt
+    less scrolls/sort.txt
+
+How many are up here:
+
+    wc -l underworld/dead.txt
+
+The first to reach the trench, the last to reach it:
+
+    head underworld/dead.txt
+    tail underworld/dead.txt
+
+The whole crowd in an order a man can use, which is not the
+order they came in:
+
+    sort underworld/dead.txt
+
+Then look for the ones you are afraid of finding. You have
+grep. You have had it since the island of flowers.
+
+Look for Telepylus. That was the name of the harbour with the
+narrow mouth.
+
+Eleven captains went into that harbour behind you. You gave the
+order. You read four or five of their files on the deck one
+afternoon, then you took a recursive delete to the lot of them.
+They are on this beach. They have been waiting.
+
+    grep Telepylus underworld/dead.txt
+
+Alkmaion is in there. So is Peiros. They are brothers, they
+spent ten years arranging never to sail within hail of each
+other, their mother on Same is expecting both of them home.
+
+Nobody down here speaks until they have drunk. That is the rule
+of the place. Two shades on this beach are outside it, for two
+different reasons, one of which is your fault.
+
+All eleven captains stand at the edge of the crowd with their
+mouths moving, looking at you. None of them is an exception.
+
+Keep them off.
+
+    less underworld/elpenor.txt

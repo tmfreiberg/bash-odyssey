@@ -1,0 +1,64 @@
+She comes down. She sits opposite you by the fire. She does not
+say anything for a very long time.
+
+Telemachus loses his temper about it. He says: mother, what is
+wrong with you, no other woman would sit apart from her husband
+like this, your heart is a stone.
+
+She says, without looking away from you: if he is Odysseus, we
+have signs between us. Ours. Nobody else knows them.
+
+Then she says it to the nurse, over your head, in the flattest
+voice anybody uses in this whole poem:
+
+Eurycleia. Move the bed out of the bedroom. Make it up for him
+outside the chamber he built himself.
+
+And you are on your feet before you have decided to be.
+
+You say: woman, who has moved my bed? Nobody could. Not without
+cutting.
+
+There was an olive tree growing inside the walls when you built
+that room, thick as a pillar, in full leaf. You built the room
+around the tree. You cut the trunk off above the roots, squared
+it, drilled it, made it the corner post of the bed frame,
+inlaid the whole thing with gold, silver, ivory. The bed has one
+leg that is a living root going down into the ground under the
+house.
+
+That is the sign. Not a scar, not a dog, not a bow. A piece of
+carpentry only two people on earth have ever seen.
+
+Write your account of it. Then set it against hers:
+
+    less scrolls/diff.txt
+
+Her version is in ithaca/penelope_bed.txt. Put yours somewhere,
+then compare them:
+
+    cat > ithaca/my_bed.txt
+    diff ithaca/my_bed.txt ithaca/penelope_bed.txt
+
+What comes back is what is different between two people's
+memories of the same object after twenty years.
+
+Then look at her face while she works out that the bed has not
+been moved, that nobody has cut the post, that the man by the
+fire is the man who cut the tree.
+
+Homer's picture: land showing up to men swimming, whose ship the
+sea has broken up in the swell, the few of them who get out of
+the grey water with the salt caked on them, climbing onto a
+beach, glad, out of it.
+
+He gives that comparison to her, about you.
+
+She holds onto your neck. She says: do not be angry with me, you
+were always the sharpest of men, the gods gave us grief because
+they could not bear us being young together.
+
+Athena holds the night back. She keeps Dawn's horses in their
+stalls at the edge of the world for as long as it takes.
+
+    less ithaca/laertes.txt

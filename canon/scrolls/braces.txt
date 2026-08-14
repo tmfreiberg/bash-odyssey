@@ -1,0 +1,34 @@
+Brace expansion -- naming things that do not exist yet
+
+A wildcard matches files that are already there. Braces are the
+opposite tool: they make a list of names out of a pattern,
+whether or not anything of that name exists.
+
+    echo plank_{01..20}.txt
+
+Twenty names, printed. Nothing created, nothing matched -- the
+shell simply expanded the braces before running the command.
+
+A range goes low to high with two dots. Numbers keep their
+leading zeros if you write them in:
+
+    {1..5}        1 2 3 4 5
+    {01..05}      01 02 03 04 05
+    {a..e}        a b c d e
+
+A comma-separated list works too, with no spaces:
+
+    echo {keel,mast,rudder}.txt
+
+To make empty files of those names, use touch, which creates a
+file if there is none, leaves the contents alone if there is:
+
+    touch plank_{01..20}.txt
+
+Twenty files, one command.
+
+Braces work in front of any command that takes filenames, which
+includes the destructive ones. rm plank_{01..20}.txt removes
+twenty files without asking about any of them. Run the pattern
+past echo first, the way you ran wildcards past ls. Same habit,
+same reason.

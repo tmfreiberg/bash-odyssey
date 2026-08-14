@@ -1,0 +1,40 @@
+history -- what you have typed
+
+The shell keeps a record of your commands.
+
+    history
+
+Every one, numbered, oldest first. On a long session that is a
+great deal of output, so send it through the tools you already
+have:
+
+    history | wc -l
+    history | grep rm
+    history | tail -n 20
+
+That second one is the interesting shape. It is not a list of
+what happened to you: it is a list of what you did, in order,
+in your own words, kept without your asking.
+
+Run a numbered line again by putting an exclamation mark in
+front of the number:
+
+    !412
+
+The line before this one:
+
+    !!
+
+Be careful with both. The shell does not stop to consider what
+it is re-running. If line 412 removed something, !412 removes
+something else. Look at the line before you fire it.
+
+Search backwards through the record without printing all of it
+by pressing Ctrl-R, then typing part of the command you want.
+Press Ctrl-R again to keep going further back. Enter runs what
+you have found; Ctrl-G gets you out.
+
+One limit worth knowing. This record belongs to the shell you
+are sitting in. Close the window, open a new one, some of what
+you did may not be there any more, depending on how your
+machine is set up. The past is only as long as the session.

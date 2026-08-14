@@ -1,0 +1,29 @@
+cat -- print a file
+
+Dumps a whole file onto the screen at once and gives you the
+prompt back:
+
+    cat shore.txt
+
+For anything long, less is better -- it lets you scroll and
+search. cat is for short files and for a second thing, which is
+more interesting.
+
+Give cat no filename at all and it will read what you type
+instead:
+
+    cat
+
+Nothing happens. It is waiting for you. Type a line, press
+Enter, type another. When you are done, press Ctrl-D on a line
+of its own, and cat prints back everything you typed.
+
+That is useless on its own. It stops being useless in the next
+scroll.
+
+cat is short for concatenate, which is what it does with more
+than one file:
+
+    cat first.txt second.txt
+
+Both, in order, as one stream.

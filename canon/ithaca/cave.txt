@@ -1,0 +1,41 @@
+The cave above the beach belongs to the nymphs. There are stone
+mixing bowls in it, stone jars, stone looms where they weave sea
+purple. Two entrances: one for men, one that only gods use.
+
+The Phaeacians stacked your gifts here while you slept:
+
+    ls ithaca/cave
+
+Everything you own in the world, in a cave, on a beach, three
+miles from your own house.
+
+Athena helps you carry it deeper in. Then she puts a stone
+across the mouth herself.
+
+Then she sits down on the roots of the olive tree to tell you
+what is in your house.
+
+A hundred and eight men. Not soldiers: the sons of the best
+families on Ithaca, Same, Dulichium, Zacynthus. They have been
+living in your hall for three years, eating your herds, emptying
+your cellar, giving orders to your household, waiting for your
+wife to give up on you.
+
+Your son is twenty. He sailed to Pylos looking for news of you;
+they have a ship waiting in the straits to kill him on the way
+home.
+
+Your wife has held them off for three years with a loom. She
+told them she would choose when the shroud for your father was
+woven. She unwove it every night by torchlight. They found out
+last year.
+
+Your father has left the town. He is in the orchard, sleeping
+with the farm hands in winter, in the leaves in summer.
+
+You ask her how one man walks into a hall with a hundred and
+eight men in it.
+
+She says: not as yourself.
+
+    less ithaca/disguise.txt

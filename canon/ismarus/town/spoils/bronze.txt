@@ -1,0 +1,9 @@
+Cauldrons, three tripods, a quantity of cut bronze.
+
+This is the kind of thing a man comes home with. It is also
+heavy, and it does not feed anyone.
+
+It is still under the sailcloth. Nothing is yours until it is in
+the hold on your ship, and putting it there is a job for mv:
+
+    less scrolls/mv.txt

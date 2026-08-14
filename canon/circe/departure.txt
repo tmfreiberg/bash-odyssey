@@ -1,0 +1,36 @@
+She lets you go. She swore an oath and she has kept every part
+of it for a year. She does not argue for one minute when you
+ask.
+
+Then she tells you the price, which she has known all along and
+has been waiting to say.
+
+You cannot sail to Ithaca from here. Not yet. There is somewhere
+you have to go first, and she says it plainly, standing on the
+sand at dawn with the ship loaded:
+
+You have to go down to the house of the dead and find the ghost
+of a blind prophet from Thebes called Tiresias. He is the only
+one down there whose mind is still whole. You ask him the way
+home.
+
+Nobody has done this. She is not aware of anyone who has done
+this. She tells you how: the shore of the Ocean, a poplar grove,
+a trench a forearm square, what to pour into it and in what
+order. She tells you the dead will come up out of the dark in
+numbers when they smell it, and that you are to keep every one
+of them off with your sword until Tiresias has drunk.
+
+Every one. Including the ones you know.
+
+Write down what she said before you sail. You are going to need
+it in a place where there is nobody to ask:
+
+    cat >> ship/log.txt
+
+Your men are on the beach loading water. Not one of them knows
+yet. You are going to have to tell them, there is no way to tell
+them that makes it better, and when you do, some of them sit
+straight down on the sand.
+
+    less underworld/shore.txt

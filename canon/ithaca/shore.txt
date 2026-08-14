@@ -1,0 +1,48 @@
+The shepherd asks what country you think this is.
+
+You tell him a lie. A good one: long, detailed, a murdered man
+in it, a voyage out of Crete, a plausible reason for the
+treasure stacked on the sand. Twenty years of practice,
+delivered without a pause, to a boy on a beach.
+
+The boy listens to all of it, smiling.
+
+Then the boy stops being a boy. She stands there in her own
+shape, tall, grey-eyed, looking at you the way you look at
+something you are fond of that has just done something
+predictable.
+
+She says: it would take a sharp man to get past you. Even a god.
+Even knowing who you are. You are the best of all men at
+planning, at talking; I am the best of all the gods at both. You
+did not know me. That is the only reason you are still lying to
+me.
+
+Athena. She was on a beach at Ismarus. She was in a cave under a
+dot in the filename. She has been at your shoulder for twenty
+years without once putting her hand on the tiller for you.
+
+She tells you where you are. She lifts the mist.
+
+It is the harbour of Phorcys, the old sea god: two headlands
+folding in on it so that a ship rides inside without a mooring
+rope. At the head of the beach there is an olive with long
+leaves, older than anybody, the tree every fisherman on this
+coast gives directions by. Beside it, back in the rock, a cave
+where the nymphs are given offerings. Behind all of it, Neriton,
+the wooded mountain.
+
+You know each of those the way you know your own hands. You have
+known them since before you could walk.
+
+Ithaca.
+
+You put your face in the ground. You kiss the dirt of it.
+
+    less ithaca/cave.txt
+
+This island ends the way all of it ends:
+
+    ithaca/end.txt
+
+Read that last. There is nothing after it.

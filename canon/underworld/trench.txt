@@ -1,0 +1,48 @@
+Dig it a forearm long, a forearm wide, at the place where the
+two rivers run into the third.
+
+The trench is a file. It is empty because you have not dug it
+yet, which is the same thing here.
+
+Then pour. Three libations, in this order, for all the dead
+together:
+
+    first, milk mixed with honey
+    then sweet wine
+    then water
+
+Over the top of the three, scatter white barley.
+
+Every one of those goes on top of what is already in the trench.
+That is what a libation is: a thing added to a thing. If any
+part of it wipes out the part before it, you have poured one
+offering into a hole in the ground four times, the dead will
+smell nothing, you will stand on this beach until the sun that
+is not there goes down.
+
+You know the two characters that separate those outcomes. You
+have known them since Ismarus. One of them is the character that
+empties a file. There was an island covered in flowers where
+that mattered:
+
+    less scrolls/redirection.txt
+
+Make the trench with the first pouring. Add the other three.
+
+    cat > underworld/trench_offering.txt
+    cat >> underworld/trench_offering.txt
+
+Write what you are pouring, in your own words, one pouring at a
+time. Then read the whole trench back before you cut the
+animals' throats, because you get no second attempt at this:
+
+    cat underworld/trench_offering.txt
+
+Four things in there, in the order Circe gave them. If there is
+one thing in there, you have made a mistake that the rest of
+this island is going to be about.
+
+Then the ram. Then the black ewe, held so her head faces down
+into the dark.
+
+    less underworld/crowd.txt

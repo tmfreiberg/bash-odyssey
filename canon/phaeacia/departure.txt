@@ -1,0 +1,56 @@
+They put to sea at dusk. Fifty-two young men on the benches,
+picked for it, pulling in time.
+
+Nobody sits at the steering oar. Phaeacian ships do not need
+one: they are told the destination once, they find it
+themselves, through fog, through night, without a mark on the
+water. Alcinous mentions this the way another man would mention
+the weather.
+
+They make you a bed on the deck: rug, linen sheet, the stern
+where it is quiet.
+
+You are asleep before the oars are wet.
+
+Not dozing. Homer is specific: a sleep like death, sweetest,
+deepest, the closest thing to dying without dying. Twenty years
+of not sleeping properly ends on a stranger's deck, fifty-two
+oars going in the dark above your head, unconscious for the
+whole crossing.
+
+You do not see Ithaca appear. You do not see the coast come up.
+The one moment you have wanted since you were twenty-five years
+old, standing on a beach with a baby in your arms, happens while
+you are asleep. You miss it.
+
+They row into a bay at dawn. They lift you off, still asleep,
+still wrapped in the linen, put you down on the sand above the
+tideline. They carry the gifts up the beach, stack them beside
+an olive tree at the head of a cave, well back from anything
+passing. Then they go home.
+
+    mkdir -p ithaca/cave
+    mv phaeacia/gifts/* ithaca/cave
+
+You wake up alone on a beach with treasure piled beside you.
+
+You do not know where you are.
+
+Athena has put a mist over the whole harbour, so that the place
+you have been rowing towards for ten years looks like nowhere
+you have ever been. The paths look wrong. The headland looks
+wrong. You stand up in the sand next to a pile of gold given to
+you by people whose island you will never find again, in a
+country you cannot identify, alone.
+
+You assume they have cheated you. You count the tripods to check
+nothing is missing. Nothing is.
+
+Write it down. It is the last entry before the last island:
+
+    cat >> ship/log.txt
+
+Then there is a young shepherd coming along the shore, wrapped
+against the weather, too well dressed for the work.
+
+    less ithaca/shore.txt

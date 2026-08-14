@@ -1,0 +1,35 @@
+alias -- give a command your own name
+
+    alias look='ls -la'
+
+From now on, in this window, typing look runs ls -la. The shell
+substitutes one for the other before it does anything else.
+
+Quote the whole definition. Use single quotes unless you have a
+reason not to.
+
+    alias home='cd ~'
+    alias islands='ls /path/to/play'
+
+To see what you have defined:
+
+    alias
+
+To take one away:
+
+    unalias look
+
+Like history, an alias belongs to the window you are sitting in.
+Close it, it is gone. To keep one, put the line in the file your
+shell reads when it starts -- usually ~/.bashrc -- which is a
+hidden file in your home directory, findable the way you found
+things in a cave a long time ago:
+
+    ls -a ~
+
+This is the last scroll. It is the only one that does not teach
+you a tool somebody else made. It teaches you to make your own,
+out of the ones you have, in whatever shape fits your hand.
+
+Nobody else's shell has your aliases in it. That is the point of
+them.

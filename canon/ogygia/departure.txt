@@ -1,0 +1,44 @@
+On the fifth day she washes you, dresses you, puts bread aboard,
+a skin of water, a second skin of dark wine, provisions enough
+to matter. Then she sends a following wind, warm, steady, going
+the right way.
+
+You are glad of the wind. You spread the sail to it.
+
+She stands on the beach. Neither of you says anything that
+belongs in a poem.
+
+Seventeen days.
+
+You do not sleep for any of them. You steer by the Pleiades, by
+Bootes going down late, by the Bear -- the one that turns in
+place watching Orion, the only one that never bathes in the
+Ocean. She told you to keep it on your left hand the whole way.
+You do.
+
+Seventeen days of open water on twenty pegged logs, alone,
+sailing a course a goddess gave you off the top of her head,
+navigating by a star you have known since you were a boy on a
+different island.
+
+On the eighteenth day there are mountains on the horizon. Low,
+dark, close, like a shield laid on the water. Land with people
+on it.
+
+Then Poseidon, coming back from Ethiopia, looks down from the
+mountains of the Solymi.
+
+He has not seen you since a cave on a hillside above a goat
+island, where a blind man told him a name. He sees you now, on a
+raft, eighteen days out, three hours from a coast.
+
+He says, out loud, to nobody: the gods have changed their minds
+about this man while I was away. He is very close to shore. I do
+not think he is there yet.
+
+Write it down before it starts. This is the last dry moment you
+get:
+
+    cat >> ship/log.txt
+
+    less phaeacia/shore.txt

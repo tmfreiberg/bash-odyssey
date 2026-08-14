@@ -1,0 +1,23 @@
+An island that floats. Not anchored to anything, not
+approaching, not receding -- it is simply where it is, and it is
+walled all the way round in bronze, and the cliff under the wall
+goes down sheer into the water.
+
+There is a gate. It opens before you knock.
+
+The man inside is called Aeolus and Zeus has given him the
+winds. All of them. He keeps them the way you would keep dogs.
+
+He takes you in without asking anything first, which is what the
+rule about strangers says he should do and what nobody has done
+since Troy. There is a hall, and a table in it, and a month of
+your life is about to go past in that room:
+
+    less aeolus/hall/feast.txt
+
+You leave this island twice. The second time is the one that
+matters, and it happens here:
+
+    aeolus/refused.txt
+
+Read that when you get back, and not before.

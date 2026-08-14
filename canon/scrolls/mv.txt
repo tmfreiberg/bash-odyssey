@@ -1,0 +1,29 @@
+mv -- move
+
+Takes something from one place and puts it in another. The thing
+first, the destination second:
+
+    mv maron_wine.jar hold
+
+The jar is now in the hold. It is not in the hut any more. That
+is the difference between mv and cp: cp leaves the original
+where it was, mv does not.
+
+mv also renames. If the second name is not a directory, mv
+treats it as the new name for the thing:
+
+    mv maron_wine.jar ballast.txt
+
+That is one file with a new name, not two files. The old name is
+gone.
+
+Nothing warns you if the new name is already in use. mv will
+write over what is there and say nothing about it. If you are
+not certain, -i makes it ask first:
+
+    mv -i maron_wine.jar hold
+
+You can move something without standing next to it, by giving
+the full route to it:
+
+    mv town/hut/maron_wine.jar ship/hold

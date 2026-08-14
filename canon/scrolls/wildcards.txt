@@ -1,0 +1,41 @@
+Wildcards -- naming more than one thing at once
+
+You do not have to type every filename. The shell will work out
+which files you mean if you describe them.
+
+    *       stands for any number of any characters
+    ?       stands for exactly one character
+    [abc]   stands for one character out of that set
+    [!abc]  stands for one character NOT out of that set
+
+So, in a directory of winds:
+
+    ls *.wind           every file ending .wind
+    ls b*               every file starting with b
+    ls ?????.wind       every wind whose name is five letters
+    ls [bn]*.wind       the ones starting with b or n
+    ls [!z]*.wind       every one that does NOT start with z
+
+The last of those is the one worth understanding. It is how you
+say "all of them except". The shell does not know what you meant
+by "except" -- it only knows the letter you excluded -- so the
+exception has to be something the names actually have in common.
+
+Wildcards work with any command that takes filenames. mv, cp,
+rm, ls, less. That is the whole point of them and it is also the
+danger:
+
+    rm *.wind
+
+does not ask. It does not list what it is about to do. It does
+exactly what you told it to, to every file that matches, and if
+you meant a smaller set than you typed then the difference is
+gone.
+
+Before a wildcard does something you cannot undo, run it past ls
+first. Same pattern, harmless command:
+
+    ls [!z]*.wind
+
+If ls shows you the right files, the pattern is right. Then use
+it in anger.

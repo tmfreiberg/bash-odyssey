@@ -1,0 +1,20 @@
+grep -- find lines that match
+
+Give it something to look for and a file to look in:
+
+    grep Ismarus ship/log.txt
+
+Every line containing that word, printed. Nothing else.
+
+Case matters. Ismarus and ismarus are different words to grep
+unless you tell it otherwise:
+
+    grep -i ismarus ship/log.txt
+
+To find the lines that do not match, use -v. To count them
+instead of printing them, use -c:
+
+    grep -c wine ship/log.txt
+
+If grep prints nothing at all, it found nothing at all. On a log
+you wrote yourself, that means something.

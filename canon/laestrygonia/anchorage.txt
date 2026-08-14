@@ -1,0 +1,51 @@
+Eleven ships along the wall, tied bow to stern, close enough
+that a man can walk the length of the fleet without touching
+water.
+
+They are all in there. Everything you have except the hull under
+your own feet.
+
+    ls -R laestrygonia/harbour
+
+That is one listing of the whole harbour: every ship, and what
+is aboard each of them. If -R is new to you, it is in the same
+scroll it always was:
+
+    less scrolls/ls.txt
+
+Read a few. Not all eleven -- you have not got the time, and you
+would not do it anyway, because you have had ten years to do it
+and you never have:
+
+    less laestrygonia/harbour/ship_07/crew.txt
+
+Every one of those files starts with a number, and the number is
+men.
+
+You do not know what they come to. You have never known. Eleven
+ships is a thing you say, and it has never once been a quantity
+of people in your head, and tonight is the last night it would
+have been possible to find out.
+
+So find out. There is a way of pulling one line out of every
+file in a directory and putting the whole lot in front of you at
+once, and it is the search command you already have:
+
+    grep -h men laestrygonia/harbour/*/crew.txt
+
+Wildcards, from the last island. grep, from the one before. The
+-h is so it prints the lines without the filenames in front of
+them.
+
+Then add them up yourself, on your fingers, the way anyone would.
+It comes to something over four hundred.
+
+They are asleep on that wall. Almost all of them are from your
+islands and about a hundred are from Ithaca itself, and their
+mothers know your name.
+
+Now send three men up the track to find out whose harbour this
+is, because that is what you always do and it has never once
+gone well:
+
+    less laestrygonia/well.txt

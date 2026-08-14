@@ -1,0 +1,72 @@
+Ten years. Twelve ships out of Troy, then eleven, then one.
+
+You have never once sat down with the whole of it in front of
+you. There has not been an hour when it was possible. There is
+one now, on flat water, half a mile short of the narrows.
+
+    less scrolls/find.txt
+
+Start with the ship. Every file aboard her, wherever it sits:
+
+    find ship -type f
+
+Then the men, counted rather than read:
+
+    find ship/crew -type f | wc -l
+
+Then the things you have left scattered across this sea.
+
+A jar of wine. An old priest of Apollo pressed it on you in a
+sacked town in Thrace, in the first week, before any of this.
+He said you would need it more than bronze. He did not say what
+for:
+
+    find . -name "maron_wine.jar"
+
+Four answers to that. It is in a hut in Ismarus, because you
+never carried it down. It is in your hold, because you carried
+it down but never opened it. It is in a cave on a hillside above
+a goat island, because you gave it to something that had never
+tasted wine. Or there is no answer at all, because you poured
+the last of it out that night, then got rid of the jar.
+
+Only one of those four cost you nothing.
+
+Your own name. You gave it away in a cave on a hillside above a
+goat island. Whether it is still in that cave under another word
+depends on what you did that night:
+
+    find . -name "outis.txt"
+    find . -name "odysseus.txt"
+
+The winds. A king on a floating island handed you every one of
+them tied up in an oxhide bag. Some are on his beach. Some are
+in the bag. Some got out:
+
+    find . -name "*.wind"
+
+The men you left in a grove with flowers in their hands, if you
+left any:
+
+    find lotus -type f
+
+The plant a god pulled out of the ground for you on a path in an
+oak wood:
+
+    find . -name ".moly"
+
+Her oath, if you wrote it down:
+
+    find . -name "oath.txt"
+
+What you poured for the dead:
+
+    find . -name "trench_offering.txt"
+
+That is the voyage. Not the story of it -- the residue. Every
+one of those results is a thing you decided, or failed to
+decide, on an afternoon when it did not feel like a decision.
+
+No other man's list looks like yours.
+
+    less scylla/cliff.txt

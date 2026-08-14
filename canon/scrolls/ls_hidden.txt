@@ -1,0 +1,18 @@
+ls -a -- list everything, including hidden things
+
+A file whose name begins with a dot is hidden. Not locked, not
+encrypted. Just not shown, unless you ask:
+
+    ls -a
+
+Every directory you have ever been in has had things in it you
+were not shown. Your own home directory is full of them.
+
+There is nothing clever about it. The rule is one character
+long: a name starting with . does not appear in a plain ls.
+
+    ls -a
+
+Do it here. This is a cave with one door and a rock across it,
+and the difference between a man who checks and a man who does
+not is the whole of the rest of your life.

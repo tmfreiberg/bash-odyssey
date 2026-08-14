@@ -1,0 +1,53 @@
+Then it is your turn. You are the only man on this ship who has
+not been made deaf.
+
+Two of them tie you: upright against the mast, hand foot,
+wrists behind, a second rope round the chest, then the ends of
+that rope made fast to the mast itself so you cannot work
+yourself round it.
+
+They do it well. They do it in silence, because they cannot hear
+each other.
+
+Look at who is doing it:
+
+    ls ship/crew
+
+
+IF PERIMEDES IS ON THAT ROSTER --
+
+Then it is Perimedes handling the rope, with Eurylochus on the
+other side pulling it through.
+
+Perimedes is the steady one. The man you would pick to hold a
+rope you needed held. That is not decoration: on a flowered
+island a long time ago he sat under a tree telling you, quite
+clearly, that he could remember Ithaca mattering to him that
+morning, that he could not make it matter any more, that trying
+was like pushing at a door already open.
+
+You carried him down to the beach.
+
+He is the only man on this ship who has been on the other side
+of wanting the wrong thing. He knows precisely what it looks
+like from inside. When you start shouting he is not going to be
+confused about it for one second.
+
+
+IF PERIMEDES IS SITTING IN A GROVE ON ANOTHER ISLAND --
+
+Then it is Eurylochus with two of the ordinary men, doing a
+competent job of a thing none of them has done before.
+
+They will hold. Probably. They are your crew, they were given an
+instruction, they cannot hear you countermand it.
+
+But nobody on this deck has ever wanted something the way you
+are about to want it. They are going to be working from a rule
+rather than from understanding, which is thinner rope than you
+would like.
+
+
+The ship comes within hearing.
+
+    less sirens/hearing.txt

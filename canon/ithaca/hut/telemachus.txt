@@ -1,0 +1,50 @@
+Your son comes up the track at dawn. He is twenty. He has been
+at sea for the first time in his life, dodging an ambush he was
+warned about by a goddess.
+
+The dogs do not bark at him. That is how Eumaeus knows.
+
+He has never seen your face. He was a baby in arms on a beach
+when you sailed. He goes past the old beggar in the doorway with
+a nod, because a man of twenty nods at old beggars.
+
+Then Eumaeus goes out to the house with a message for his
+mother, so that for one hour there are two of you in that hut.
+
+Athena calls you outside. She takes the disguise off in the
+yard. You come back through the door as yourself: taller,
+darker, dressed properly, forty-five years old.
+
+He goes white. He backs up. He says: you are a god, stop it, I
+have nothing worth taking.
+
+You say: I am not a god. I am your father.
+
+He does not believe it. He argues. No man arrives after twenty
+years looking twenty years younger than the beggar who was
+sitting there. Then he stops arguing, because you are crying,
+because you have started to weep the way a man does when he has
+been holding something for two decades, out loud, wretchedly,
+without any control over it.
+
+Homer's comparison: birds crying, sea eagles, hook-clawed, when
+farmers have taken their young out of the nest before they were
+fledged.
+
+Then you put the rags back on.
+
+    mv ship/crew/telemachus.txt ithaca/hut
+
+There is no such file. There never was. Your son has not been on
+your roster for a single day of this voyage -- he was two months
+old at Troy, he is a grown man now, you have missed all of it,
+he was never yours to lose because he was never with you.
+
+Make him. That is the first thing you have added to that roster
+in ten years:
+
+    touch ship/crew/telemachus.txt
+
+Then plan. Two men against a hundred and eight.
+
+    less ithaca/hall/argos.txt

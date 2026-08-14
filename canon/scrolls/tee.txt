@@ -1,0 +1,36 @@
+tee -- send output two ways at once
+
+A pipe passes what one command prints into another. Redirection
+sends it into a file. Both have the same limitation: whatever
+you do with the output, you stop seeing it.
+
+    cat log.txt > copy.txt
+
+That works. Nothing appears on your screen.
+
+tee does both:
+
+    cat log.txt | tee copy.txt
+
+The contents go into copy.txt. The contents also print, so you
+watch the thing you are saving as it goes past.
+
+The name comes from plumbing. A T-shaped joint takes one flow,
+sends it two directions.
+
+By default tee overwrites the file, in the way > does. To add to
+the end instead, the way >> does:
+
+    cat log.txt | tee -a copy.txt
+
+It takes more than one destination:
+
+    cat log.txt | tee copy_one.txt copy_two.txt
+
+It is most useful in the middle of a longer pipeline, where you
+want to keep an intermediate result without stopping the flow:
+
+    cat log.txt | grep Ithaca | tee found.txt | wc -l
+
+That prints a count. It also leaves you a file of what was
+counted, which is the part you would otherwise have thrown away.

@@ -1,0 +1,38 @@
+Aiaia. Nobody aboard knows whether it lies east or west of
+anywhere. Neither do you, and you have been navigating since you
+were fourteen.
+
+You lie on that beach for two days and a night with your face in
+your arms and you do not speak to anyone. Neither does anybody
+else. There were four hundred men in a harbour a week ago. Now
+there is one hull pulled up on sand, and everybody on it has
+somebody he is not talking about.
+
+On the third day you go up to high ground, and there is smoke.
+One column, inland, out of a thick oak wood. Nothing else in any
+direction but sea.
+
+On the way back down you kill a stag. A big one, coming to the
+river to drink. You carry it back across your shoulders with its
+legs tied, and it is heavy enough that you have to stop twice.
+
+They eat. It is the first thing that has gone right since
+Aeolus. By dark they are talking again. Somebody laughs at
+something. You sit outside the firelight, listening, and feel
+almost level.
+
+Then you tell them about the smoke, and it stops.
+
+They have been in a cave and a harbour. They know what inland
+means now. But there is no water on this beach and you cannot
+sit here. It has to be done, and the argument is only about who
+does it.
+
+    less circe/lots.txt
+
+This island takes a year. It ends here, when she finally tells
+you what it is going to cost to leave:
+
+    circe/departure.txt
+
+Read that when you have earned it, and not before.

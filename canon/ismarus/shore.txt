@@ -1,0 +1,26 @@
+The town is called Ismarus and it belongs to the Cicones, who
+fought against you at Troy. You took it at dawn. It was not
+difficult.
+
+Your ships are pulled up on the sand behind you. Your men are on
+the beach with the wine jars open, roasting sheep they did not
+have to pay for. Someone is singing.
+
+You have told them twice that it is time to go. They have not
+moved.
+
+Above the beach, the town. Behind the town, hills, and a road
+running inland. The Cicones who live inland will have seen the
+smoke by now. They have horses. You do not.
+
+Three places, then. The town, if you want what is left in it.
+The ship, if you have had enough of this island already. And the
+hills, which are the only place you can see the inland road
+from, and where this day ends whether you go up there or not:
+
+    ismarus/nightfall.txt
+
+Read that when you are done here, and not before. Getting
+anywhere means moving yourself:
+
+    less scrolls/cd.txt

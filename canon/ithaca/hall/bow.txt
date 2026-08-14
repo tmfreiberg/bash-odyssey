@@ -1,0 +1,37 @@
+Your wife brings the bow down herself.
+
+It belonged to Iphitus, who gave it to you when you were both
+young men, before somebody murdered him. You never took it to
+Troy. It has been in the store room for twenty years because it
+was too good to risk.
+
+She sets the terms: twelve axe heads in a line, the way you used
+to do it. Whoever strings this bow, sends an arrow clean through
+all twelve, takes me out of this house.
+
+They try in order. They warm the horn at the fire, they grease
+it, they brace it against the floor. Not one of them gets the
+string near the notch. Antinous says they should leave it for
+tomorrow, which is a way of saying he cannot do it in front of
+people.
+
+The beggar in the corner asks for a turn.
+
+The hall finds this very funny for about as long as it takes to
+put the bow into his hands.
+
+    less scrolls/ls_hidden.txt
+
+The bow is a program rather than a page. Run it:
+
+    bash ithaca/hall/bow.sh
+
+It looks for you. Not for a beggar, not for a stranger from
+Crete -- for a name, anywhere on this island, in whatever place
+you last put it. If you have kept your name somewhere findable,
+the horn comes round.
+
+If nothing on this island belongs to you any more, it will tell
+you so, then tell you how to look.
+
+    less ithaca/hall/slaughter.txt

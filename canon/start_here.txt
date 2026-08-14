@@ -1,0 +1,37 @@
+NOSTOS
+
+A homecoming, in thirteen episodes and twenty-six commands.
+
+Troy has fallen. You are Odysseus, and you are going home to
+Ithaca. It should take a few weeks.
+
+It is going to take ten years.
+
+The story will tell you where things are, what is happening, and
+what you need to do next. Working out how to do it is the game.
+Nobody is going to hand you the exact words -- but nobody is
+going to leave you standing in the dark either, and any time you
+need a tool you have not used before, you will be told where to
+read about it. They are in a directory called scrolls, and you
+read one the same way you are reading this:
+
+    less scrolls/pwd.txt
+    less scrolls/ls.txt
+
+Those paths are written from here, the top of the game. Once you
+start moving around they will not work as written, and the scroll
+on cd explains how to reach back up. Some people keep a second
+window open, parked here, just for reading scrolls. That is
+allowed. Everything about the way you sit at this machine is
+allowed.
+
+There is a directory here for every island this voyage touches.
+Each one tells you, when you land on it, which file that island
+ends at. Wander as much as you like in between; when you have
+read the ending file, that island is done with you.
+
+Read those two scrolls now. The first tells you where you are
+standing, the second how to look around. Then go to the first
+island, which is ismarus, where you have already done the damage.
+
+    less ismarus/shore.txt

@@ -1,0 +1,40 @@
+She comes down to the rock herself.
+
+She says: unhappy man, stop sitting here. I am letting you go.
+
+You do not believe her for a moment. Seven years of her offering
+you eternity, then this, on an ordinary morning, with no reason
+given -- you have been on the receiving end of gods for a decade
+now.
+
+So you do the one thing you have learned to do.
+
+You tell her: goddess, there is no raft on this island that
+would cross that gulf. I will not set foot on any vessel until
+you swear the great oath that you are not planning some other
+harm for me.
+
+She laughs. She strokes your face. She says: you are a
+scoundrel; you never think a straight thought; what a thing to
+have worked out.
+
+Then she swears it. Earth, sky, the water of Styx, the whole
+formula, the oath that binds the blessed gods themselves.
+
+Write it down. You have done this once before, in an oak wood,
+with a different goddess, for the same reason:
+
+    less scrolls/echo.txt
+
+Put it in ogygia/oath.txt, in her words or in your own.
+
+Afterwards she feeds you. She sits opposite you eating nectar
+while you eat human food, which is the last domestic thing that
+happens on this island.
+
+Then she asks you one more time, without much force, whether you
+would rather stay.
+
+You say no. She says: go on, then. Take the tools.
+
+    less ogygia/raft.txt

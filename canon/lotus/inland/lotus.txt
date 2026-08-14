@@ -1,0 +1,22 @@
+They are holding one out to you.
+
+It is not a drug, exactly. Nobody here is confused. They know
+where they are and they are glad about it. What they have lost
+is the sense that anywhere else has a claim on them.
+
+Nine days of wind. Ten years of war before that. A wife you
+would not recognise in the street and a son who was a baby, and
+a kingdom that has probably given you up, and between here and
+there, if the last ten years are anything to go by, a great deal
+more sea.
+
+Or this. Which is warm, and here, and quite easy.
+
+If you are staying, then the log is finished and it only needs
+its last line. One line, replacing all of it, because none of
+the rest was ever going anywhere:
+
+    cat > ship/log.txt
+
+If you are not staying, go and get your men, and do not eat
+anything on the way down.

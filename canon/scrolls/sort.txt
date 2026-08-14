@@ -1,0 +1,27 @@
+sort -- put lines in order
+
+    sort dead.txt
+
+Every line of the file, printed alphabetically. The file itself
+is not changed. Nothing is moved. sort reads it, orders what it
+read, prints that.
+
+To go backwards:
+
+    sort -r dead.txt
+
+If the lines start with numbers, sort them as numbers rather
+than as text, or 10 comes before 2:
+
+    sort -n counts.txt
+
+sort is most useful joined to something else. To keep the result
+you have to send it somewhere:
+
+    sort dead.txt > dead_by_name.txt
+
+That is a second file. The original is where it was, in the
+order it was in, which may be an order that means something.
+A list of the dead in the order they died is not the same list
+as a list of the dead in alphabetical order, though it has
+exactly the same names in it.

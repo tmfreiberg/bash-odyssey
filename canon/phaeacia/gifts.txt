@@ -1,0 +1,55 @@
+Alcinous speaks first. He says: nobody is sending this man away
+with nothing.
+
+Twelve lords hold rank on this island, thirteen counting the
+king. Each one brings a cloak, a tunic, a talent of gold. The
+king adds a cup. Arete has a chest packed, ties the lid herself
+with a knot she teaches you, because she is a queen who has
+thought about theft.
+
+They carry it aboard their own ship while you sleep, stow it
+under the benches where nothing will shift in a swell.
+
+Their ship. Not yours. You have not had a ship since a
+thunderbolt went into one south of Thrinacia; you came off that
+water on a keel, you crossed to this island on twenty logs you
+cut yourself, those logs are in pieces two days out from this
+beach. What you own is a log file, some clothes a girl gave you
+at a river mouth, this.
+
+It is worth more than everything you took out of Troy.
+
+Sit with that a moment. Ten years to take one city. Twelve ships
+loaded with what came out of it, every one of them riding low
+when they left the beach.
+
+None of that plunder exists any more. It is on the bottom in
+four or five places between this island and Troy, most of it
+still stowed under the benches of ships that went down with
+their crews aboard.
+
+You are going home richer than you ever were, carrying goods
+given freely by people you had never heard of, who asked you for
+nothing, who wanted no explanation beyond the story.
+
+There is nowhere aboard your own vessel to put any of it,
+because you have no vessel. Stack it where it is, on this
+island, ready to go over the side at the other end:
+
+    mkdir phaeacia/gifts
+    touch phaeacia/gifts/{cloak,tunic,gold,cup,chest}.txt
+
+    ls phaeacia/gifts
+
+Five things. Every one from somebody who owed you nothing.
+
+Look at where your hold used to be, while you are here:
+
+    ls ship
+
+Bronze, cloth, grain, a jar from a priest of Apollo -- all of it
+went into eighty fathoms with the men who loaded it. You are
+going home with a stranger's cloak on your back, carrying gifts
+from a country whose name your own people will not recognise.
+
+    less phaeacia/departure.txt

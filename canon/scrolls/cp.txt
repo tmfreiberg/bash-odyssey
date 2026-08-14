@@ -1,0 +1,33 @@
+cp -- copy
+
+Makes a copy of a file. The thing to copy first, the name of the
+copy second:
+
+    cp shore.txt shore_as_i_found_it.txt
+
+Two files now, with the same contents. Change one and the other
+is untouched. That is the whole point of cp, and the difference
+between it and mv: mv moves a thing, cp leaves the original
+where it was.
+
+Name a directory second and the copy goes inside it, keeping its
+name:
+
+    cp shore.txt ship
+
+To copy a directory and everything in it, add -R:
+
+    cp -R town town_before_we_came
+
+Careful with that one. If the second name does not exist yet, cp
+creates it as a copy of the first. If it already exists, cp puts
+the copy inside it instead. Same command, two different results,
+depending on what is already there.
+
+This is how you got here, by the way. The script that started
+your voyage copied the whole story out of canon/ so that you
+could change things without ruining them for next time.
+
+There is a reason to learn this before you learn rm. Some of
+what you are about to do cannot be undone, and a copy made
+beforehand is the only way back.

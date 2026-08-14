@@ -1,0 +1,68 @@
+They are sitting apart from each other, which is the first thing
+you notice. Three men who have shared a bench for ten years, and
+they have drifted off into the trees like men at the end of a
+long party.
+
+
+POLITES is against a tree with his legs out in front of him, and
+when he sees you he smiles like a man seeing a friend arrive.
+
+You ask him if he is ready to go.
+
+He says: go where?
+
+He is not being difficult. He has tried to remember and there is
+nothing there to remember with. Ithaca is a word he knows he
+used to like the sound of.
+
+
+ELPENOR is flat on his back in the grass looking straight up at
+the sun, which is not good for him.
+
+He knows exactly who you are and he is delighted about it. He
+wants to tell you about the flowers. He has a great deal to say
+about the flowers.
+
+You ask about Ithaca and he says yes, Ithaca, and then waits,
+pleasantly, for you to say something else. The word came back to
+him and brought nothing with it.
+
+Somebody has always told him where to stand. It has worked out
+for him so far.
+
+
+PERIMEDES is the one who noticed.
+
+He ate what he was given, the way you eat what you are given in
+a stranger's house, and then he sat down and felt it happening,
+and he is still sitting there.
+
+He tells you so himself, quite clearly. He says he can remember
+that Ithaca mattered to him this morning. He says he cannot make
+it matter now, and that he has tried, and that trying is like
+pushing at a door that is already open.
+
+Then he says: if you leave me here I will be happy. You should
+know that before you decide.
+
+He is not asking to be taken and he is not asking to be left. He
+is telling you the truth and letting you carry it, which is the
+last useful thing he does on this island.
+
+
+None of the three will walk down to the beach. It is not that
+they refuse. It is that it does not occur to them, and it will
+not occur to them, and there is no argument you can make to a
+man who has stopped wanting things.
+
+If they are going home it is because you carry them. Their names
+went up this path this morning and they are in this grove now,
+and the ship is where they belong:
+
+    mv lotus/inland/eaters/polites.txt ship/crew
+    mv lotus/inland/eaters/elpenor.txt ship/crew
+    mv lotus/inland/eaters/perimedes.txt ship/crew
+
+Take all three, or take some, or take none. Nobody down there
+will ask you about it, because nobody down there wants to be
+asked what they would have done.

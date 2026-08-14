@@ -1,0 +1,32 @@
+You split them.
+
+Two parties. You take one, Eurylochus takes the other. You shake
+lots in a bronze helmet to decide which of you walks into the
+oak wood, and his comes out.
+
+He does not say anything about it. He looks at you for a moment
+longer than he needs to. That is all. He has been married to
+your sister for twenty years and you know exactly what the look
+is.
+
+Choose five men to go with him.
+
+Not Eurylochus -- he is going whether he likes it or not, that
+is what the lot meant. Five others, off the roster, chosen by
+you. There is no rule about how you choose. There is no way to
+do it well.
+
+    ls ship/crew
+
+Move the five into the house in the wood. They walk up the track
+this afternoon. They are still yours, still on your roster in
+every way that matters, and the file is the man:
+
+    mv ship/crew/somebody.txt circe/house
+
+Five of those, with five real names in them.
+
+Then the rest of you sit on the beach and wait, which is the
+part nobody writes poems about.
+
+    less circe/loom.txt

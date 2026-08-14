@@ -1,0 +1,27 @@
+The cave is empty and the owner is out with the flock.
+
+Inside: cheeses in racks, lambs and kids in pens sorted by age,
+pails of whey, everything in order. Whoever lives here is not a
+savage. He is just enormous.
+
+Your men want to take what they can carry and run for the ship.
+That is the sensible thing and you can see it clearly.
+
+You want to wait and see what he gives you. Guest-gifts. The
+rule.
+
+You wait.
+
+He comes back at dusk with the flock, and he closes the door
+behind him. The door is a rock. Twenty-two wagons could not move
+it and neither can you, and it will not open again until he
+opens it.
+
+Look around properly before he notices you. Everything in this
+room is going to matter, including what is not obvious:
+
+    less scrolls/ls_hidden.txt
+
+He notices you at the fire, and when he does, the night starts:
+
+    less cyclops/cave/polyphemus.txt

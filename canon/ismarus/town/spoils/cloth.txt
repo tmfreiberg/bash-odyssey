@@ -1,0 +1,10 @@
+Dyed wool, folded, still smelling of the chest it came out of.
+Someone spent a winter on this.
+
+It weighs nothing and it is worth having. There is no argument
+against it except the time it takes to carry it down.
+
+It is still under the sailcloth. Nothing is yours until it is in
+the hold on your ship, and putting it there is a job for mv:
+
+    less scrolls/mv.txt
