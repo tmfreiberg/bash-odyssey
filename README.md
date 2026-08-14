@@ -47,7 +47,7 @@ that teaches it says so, and shows you how to check for yourself.
 ## Start
 
 ```
-git clone https://github.com/thfreiberg/bash-odyssey.git
+git clone https://github.com/tmfreiberg/bash-odyssey.git
 cd bash-odyssey
 chmod +x begin.sh
 ./begin.sh
