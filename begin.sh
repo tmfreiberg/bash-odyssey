@@ -13,10 +13,14 @@ cd "$(dirname "$0")"
 
 # Some things in this story are older than the voyage. cp gives every
 # file the date it was copied, so the ages have to be put back by hand.
+# If touch fails, the game still works; only the ls -lt lesson in
+# Ithaca loses its oldest file, so say so and carry on.
 age_the_world() {
-    touch -d "20 years ago" play/ithaca/hall/argos.dog 2>/dev/null || true
-    touch -d "20 years ago" play/ithaca/penelope_bed.txt 2>/dev/null || true
-    touch -d "30 years ago" play/ithaca/orchard/boar_hunt.txt 2>/dev/null || true
+    touch -d "20 years ago" play/ithaca/hall/argos.dog &&
+    touch -d "20 years ago" play/ithaca/penelope_bed.txt &&
+    touch -d "30 years ago" play/ithaca/orchard/boar_hunt.txt ||
+    echo "Note: could not backdate three files in play/ithaca;" \
+         "the ls -lt lesson there will find nothing old." >&2
 }
 
 
@@ -53,6 +57,13 @@ case "${1:-}" in
 --refresh)
     [ -d play ] || { echo "No game in play/ yet. Run ./begin.sh"; exit 1; }
     [ -n "${2:-}" ] || { echo "Which island? e.g. ./begin.sh --refresh cyclops"; exit 1; }
+    # A bare episode name only: a path such as ../canon would make the
+    # rm -rf below reach outside play/, and ship/ holds the player's log.
+    case "$2" in
+        */*|.*|ship)
+            echo "Give an island by name, such as cyclops: not a path, and not ship." >&2
+            exit 1 ;;
+    esac
     [ -d "canon/$2" ] || { echo "No island called $2 in canon/."; exit 1; }
     printf 'This puts play/%s back the way it was found. Type yes: ' "$2"
     read -r answer
