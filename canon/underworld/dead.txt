@@ -34,7 +34,6 @@ Maera, Clymene, Eriphyle
 Karpos of Ithaca, captain, ship_12, drowned at Telepylus
 Iphimedeia wife of Aloeus
 Klytios of Zacynthus, captain, ship_04, drowned at Telepylus
-Elpenor son of nobody in particular, of Ithaca, fell off a roof
 Deiphobus son of Priam, killed in his own house
 Peiros of Same, captain, ship_07, drowned at Telepylus
 Memnon son of Dawn, killed at Troy

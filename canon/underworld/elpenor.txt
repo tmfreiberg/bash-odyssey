@@ -1,12 +1,14 @@
-Check whether this happened to you.
+Check where the boy has been. Three men went up the path on the
+island of flowers, a long time ago, and the grove keeps whoever
+was not carried down:
 
-    ls circe
+    ls lotus/inland/eaters
 
-If there is a file in there called roof.txt you have read, you
-know already whether the boy fell.
+If elpenor.txt is not there, you brought him aboard, and he was
+on the roof of Circe's house on the last night.
 
 
-IF YOU LEFT ELPENOR IN THAT CLEARING --
+IF ELPENOR IS NOT IN THE GROVE --
 
 He is the first shade to reach the trench. Before Tiresias.
 Before your mother. He got here ahead of your ship, because a
@@ -55,7 +57,7 @@ clever. You will do it. It is the one promise in this whole
 voyage you keep on time.
 
 
-IF ELPENOR IS SITTING IN A GROVE ON ANOTHER ISLAND --
+IF ELPENOR IS STILL IN THE GROVE --
 
 Then he is not here. He is one of three men you left under the
 trees with flowers in their hands, happy, alive, no use to
