@@ -1,2 +1,26 @@
+# ---- Game in progress ----
+# The player's copy of canon/, made by begin.sh. Never committed.
 play/
-saves/
+
+# ---- Local working material ----
+# Working material kept beside the project, excluded from version control
+# by this file (not by .git/info/exclude).
+excluded/
+
+# ---- Update zips ----
+# Temporary archives, extracted in place and then deleted.
+/*-update-*.zip
+
+# ---- Local notes ----
+# A separate local repository, not part of this project.
+/bash-odyssey-private/
+# Backstop: if a note lands here by mistake, git will not take it.
+/handoff.txt
+/backlog.txt
+/backup.txt
+/devnotes.txt
+
+# ---- OS ----
+.DS_Store
+Thumbs.db
+desktop.ini
