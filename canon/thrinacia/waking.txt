@@ -33,10 +33,14 @@ That is the list. Remove exactly those.
 
     less scrolls/rm_recursive.txt
 
-You can do it one at a time. You can do it with a pattern. You
-will find, if you try the pattern, that the notice you set does
-not save a single one of them, which is the whole lesson of that
-scroll in one line.
+You can do it one at a time. You can do it with a pattern.
+Either way rm will stop and ask, file by file, whether you mean
+to remove something that is write-protected. That question is
+the notice you set, read back to you.
+
+Answer yes. Fifty times, if it comes to that. The notice asks; it
+does not refuse. Your crew answered yes to every one of them, and
+there was nobody standing over them to say otherwise.
 
 
 Then Helios notices.
