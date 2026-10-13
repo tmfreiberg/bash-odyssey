@@ -71,8 +71,8 @@ this directory". You will find out why in due course.
 
 `canon/` is the original story and is never modified. `play/` is your
 copy of it, made by `begin.sh` with a single `cp -R`. Everything you
-do happens in `play/`, and nothing you do there is undoable, which is
-the point.
+do happens in `play/`, and nothing you do there can be undone, which
+is the point.
 
 ```
 ./begin.sh --restart         throw the voyage away, deal a fresh one
@@ -80,11 +80,13 @@ the point.
 ./begin.sh --update          pick up new islands without losing your game
 ```
 
-`--refresh` is for replaying a single episode you liked. `--update` is
-for the case where you have pulled a newer version of this repo
-mid-voyage: it copies over anything that did not exist when you
-started, refreshes the scrolls, and leaves your ship, your crew, and
-your log exactly as they are.
+`--refresh` resets one episode, for replaying it or for picking up a
+correction made to it since you started; anything you did in that
+episode is lost. `--update` is for when you have pulled a newer
+version of this repo mid-voyage: it adds any episode that did not
+exist when you started and refreshes the scrolls, and leaves your
+ship, your crew, your log and the episodes you have already played
+exactly as they are.
 
 ## What it covers
 
