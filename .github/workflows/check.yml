@@ -1,0 +1,25 @@
+name: check
+
+# Runs on every pull request (Dependabot's included) and on every push to
+# main. There is nothing to build or install: the repository is text and
+# POSIX shell.
+
+on:
+  pull_request:
+  push:
+    branches: [main]
+
+permissions:
+  contents: read
+
+jobs:
+  check:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: shellcheck
+        run: git ls-files -z '*.sh' | xargs -0 shellcheck -s sh
+
+      - name: story checks
+        run: sh .github/check-story.sh
