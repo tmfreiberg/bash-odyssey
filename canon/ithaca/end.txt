@@ -44,9 +44,15 @@ this game was dealt from, sitting in canon/, untouched since the
 morning you first ran begin.sh. Every choice you made since
 Ismarus made your copy diverge from it.
 
-Set them against each other:
+canon/ is not inside the game. It sits beside play/, one level
+up, so you reach it with two dots. The game itself is here, which
+is one dot. Set them against each other:
 
-    diff -r canon play
+    diff -rq ../canon .
+
+The -q asks only which files differ, not how. Without it diff
+prints every changed line as well, which is more than a whole
+voyage needs.
 
 You rehearsed this in a meadow on Thrinacia, on a herd of cattle
 you had copied the night before, which was one command that cost
@@ -54,14 +60,17 @@ you nothing at the time.
 
 Read what comes back.
 
-Every "Only in canon" is something you destroyed: a man you
+Every "Only in ../canon" is something you destroyed: a man you
 took off the roster, a fleet you deleted in a harbour, a hold
 that went down with a ship.
 
-Every "Only in play" is something you made: a log, an oath, a
-raft, a trench, a name in a cave, a son.
+Every "Only in ." is something you made: a log, an oath, a raft,
+a trench, a name in a cave, a son.
 
-Every "differ" is a file you touched.
+Every "differ" is a file you touched. To see how one of them
+changed, drop the -q and name the pair:
+
+    diff ../canon/ship/log.txt ship/log.txt
 
 That listing is the difference between the Odyssey that was
 lying on this disk when you started, the one you actually had.
@@ -81,9 +90,9 @@ names, ends his voyage by naming a tool after himself.
 
 Then, if you want to sail again, there is a fresh copy waiting
 in canon/, dealt out by one line of shell you now understand
-completely:
+completely. begin.sh sits beside canon/, one level up from here:
 
-    ./begin.sh --restart
+    ../begin.sh --restart
 
 
                         NOSTOS
